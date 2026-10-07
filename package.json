@@ -1,0 +1,13 @@
+{
+  "name": "stone-line-website",
+  "version": "1.0.0",
+  "description": "Stone Line — website piatră naturală Cristești, Mureș",
+  "scripts": {
+    "build": "eleventy",
+    "dev": "eleventy --serve --port=8080"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-plugin-rss": "^1.2.0"
+  }
+}
