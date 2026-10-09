@@ -1,83 +1,82 @@
 ---
-title: "Pavaje și alei din piatră naturală: materiale, montaj și greșeli de evitat"
-description: "Cum alegi piatra pentru pavaje și alei: andezit, granit,
-  travertin. Fundație, drenaj, finisaje antiderapante și greșeli frecvente."
+title: "Glafuri din piatră naturală: de ce merită, ce material alegi și cum se
+  montează corect"
+description: "Ghid glafuri din piatră naturală: granit, marmură, andezit.
+  Interior vs exterior, detalii tehnice, montaj corect și greșeli de evitat."
 date: 2026-09-30
 category: Aplicații
-image: /img/blog/fatade-piatra-naturala.webp
+image: /img/blog/glafuri-piatra-naturala.webp
 ---
-Un pavaj din piatră naturală poate arăta impecabil zeci de ani — sau se poate denivela, păta și crăpa în câteva sezoane. Diferența stă în alegerea materialului, în pregătirea fundației și în detaliile de montaj (pantă, rosturi, drenaj).
+Glaful este un detaliu aparent mic, dar foarte expus: pe el stau ghivece, se sprijină coate, primește soare, ploaie, condens și, la exterior, cicluri de îngheț. Un glaf din PVC sau lemn se poate deforma; unul din piatră naturală rămâne stabil, elegant și ușor de curățat zeci de ani.
 
-## Ce materiale se potrivesc pe pavaje
+## Ce material alegi pentru glafuri
 
-| Material | Rezistență | Aderență (finisaj texturat) | Recomandare |
+| Material | Interior | Exterior | Observații |
 |---|---|---|---|
-| Andezit | Excelentă | Foarte bună | Foarte recomandat |
-| Granit | Excelentă | Foarte bună | Foarte recomandat |
-| Ardezie | Foarte bună | Bună (naturală) | Recomandat |
-| Travertin | Medie* | Bună (antichizat) | Condizionat |
-| Marmură | Medie | Slabă (lustruit) | Nu recomandat pe exterior |
+| Granit | Excelent | Excelent | Cea mai sigură alegere generală |
+| Andezit | Foarte bun | Excelent | Ideal exterior, aspect natural |
+| Marmură | Excelent | Limitat | Elegant interior; atenție la acizi |
+| Travertin | Bun | Condizionat | Doar cu impermeabilizare |
 
-*Travertinul pe pavaj necesită impermeabilizare, pantă bună și reînnoire periodică a tratamentului.
+**Recomandare practică:** granit pentru majoritatea proiectelor; marmură pentru interior premium; andezit pentru exterior expus.
 
-## Andezit și granit — alegerile sigure
+## Interior vs exterior — diferențe
 
-**Andezit:** dens, rezistent la îngheț, aspect natural. Ideal pentru alei, trotuare, zone de acces și terase. Finisajele fiamate sau scapițate oferă aderență excelentă.
+**Glaf interior:** accent pe aspect și potrivirea cu restul finisajelor (blat, scară, pardoseală). Marmura și granitul lustruit sau periat sunt cele mai folosite. Condensul de la geam cere uneori o pantă ușoară sau un detaliu de etanșare bun.
 
-**Granit:** maximă duritate și rezistență la uzură. Potrivit inclusiv pentru zone cu trafic mai intens. Gamă largă de culori; finisaj fiamat sau periat pentru exterior.
+**Glaf exterior:** prioritate pe rezistență la îngheț, UV și apă. Granit sau andezit, cu **picurător** (muchie prelucrată ca apa să nu curgă pe fațadă). Panta ușoară spre exterior e esențială.
 
-## Finisaje pentru pavaje — prioritate aderența
+## Detalii tehnice importante
 
-| Finisaj | Aderență | Unde e ideal |
-|---|---|---|
-| Fiamat | Foarte bună | Alei, terase, zone umede |
-| Scapițat / natural | Foarte bună | Stil rustic, alei de grădină |
-| Periat | Bună | Terase, zone pietonale elegante |
-| Buceardat | Excelentă | Zone cu risc mare de alunecare |
-| Lustruit | Slabă când e ud | **EVITAT pe pavaje exterioare** |
+- **Grosime:** de obicei 2–3 cm; pe exterior uneori mai gros
+- **Lățime:** depășește tocul ferestrei; pe exterior asigură scurgerea apei
+- **Canturi:** drepte, rotunjite, teșite sau cu profil — în funcție de stil
+- **Picurător:** pe glafurile exterioare, o canelură pe dedesubt previne scurgerea pe perete
+- **Pantă:** pe exterior, minim 1–2% spre afară
+- **Etanșare:** silicon / etanșant potrivit la îmbinarea cu tocul și cu tencuiala
 
-## Fundația și drenajul — 80% din succes
+## Montaj corect — pe scurt
 
-Chiar și cea mai bună piatră eșuează pe un suport prost pregătit. Elementele esențiale:
+1. Verificare suport (planeitate, stabilitate)
+2. Măsurători precise (lungime, adâncime, unghiuri)
+3. Debitare pe CNC + prelucrare canturi / picurător
+4. Fixare cu adeziv flexibil + eventual ancore pe piese lungi
+5. Etanșare la toc și la rosturi
+6. Curățare + sigilare (recomandată)
 
-1. **Săpătură și compactare** — suport stabil, fără tasări ulterioare
-2. **Strat de balast / pietriș** — drenaj și distribuție a sarcinii
-3. **Pantă de scurgere** — minim 1–2% ca apa să nu băltească
-4. **Borduri / delimitare** — țin pavajul pe loc
-5. **Rosturi** — permit dilatarea și ajută la drenaj
+## Finisaje potrivite
 
-> Pe terase și zone peste spații locuite, hidroizolația suportului este obligatorie.
-
-## Montaj — lipire vs rosturi deschise
-
-**Montaj pe adeziv (pe șapă / beton):** potrivit pentru terase, zone cu pantă controlată, aspect curat. Cere suport stabil și adeziv flexibil pentru exterior.
-
-**Montaj pe pat de nisip / pietriș (rosturi deschise):** clasic pentru alei și curți. Permite drenaj natural, dar cere borduri solide și întreținere a rosturilor.
+| Finisaj | Unde e ideal |
+|---|---|
+| Lustruit | Interior — aspect elegant, ușor de curățat |
+| Periat / leathered | Interior și exterior — mat, modern |
+| Fiamat | Exterior — antiderapant, rezistent |
+| Natural / scapițat | Exterior rustic / contemporan texturat |
 
 ## Greșeli frecvente
 
 | Greșeală | Consecință | Cum eviți |
 |---|---|---|
-| Fără pantă de scurgere | Bălți → îngheț → fisuri | Minim 1–2% pantă |
-| Fundație slabă / netasată | Denivelări, plăci care se mișcă | Compactare + strat de drenaj |
-| Finisaj lustruit pe exterior | Alunecare | Fiamat / periat / scapițat |
-| Travertin fără tratament | Pete, degradare | Impermeabilizare + întreținere |
-| Rosturi greșite / lipsă borduri | Migrarea plăcilor | Borduri + rosturi corecte |
+| Fără pantă pe exterior | Apă pe fațadă, infiltrații | Pantă 1–2% + picurător |
+| Material slab pe exterior | Fisuri, pete, degradare | Granit sau andezit |
+| Etanșare proastă la toc | Infiltrații, mucegai | Etanșant potrivit, aplicat corect |
+| Glaf prea scurt / îngust | Apă pe perete, aspect nefinisat | Măsurători corecte + depășire toc |
+| Montaj doar pe spumă | Instabilitate în timp | Adeziv pentru piatră + fixare solidă |
 
 ## Întrebări frecvente
 
-**Care e cea mai bună piatră pentru alee în România?**
-Andezitul și granitul. Rezistă la îngheț, uzură și oferă aderență bună în finisaj texturat.
+**Care e cel mai bun material pentru glaf exterior?**
+Granitul și andezitul. Rezistă la îngheț, soare și apă, cu întreținere redusă.
 
-**Ce grosime de piatră e recomandată?**
-De obicei 2–3 cm pe suport de beton; pe pat de nisip se folosesc deseori piese mai groase. Depinde de trafic și de sistem.
+**Ce grosime e recomandată?**
+Cel mai des 2 sau 3 cm. Pe exterior, în funcție de deschidere, se poate opta pentru 3 cm.
 
-**Cât durează montajul unui pavaj?**
-O alee sau terasă medie (30–50 mp) durează de obicei 3–7 zile lucrătoare.
+**Se pot face glafuri pe colț, L, sau cu decupaje?**
+Da. Debităm pe CNC după măsurători — inclusiv forme speciale.
 
-**Se poate repara un pavaj denivelat?**
-Da, parțial — se ridică zonele afectate, se reface suportul și se remontează. Prevenția (fundație bună) e însă mai ieftină.
+**Cât durează montajul?**
+Pentru un set obișnuit de glafuri (câteva ferestre), de obicei câteva ore până la o zi, după ce piesele sunt debitate.
 
 ---
 
-Un pavaj reușit din piatră naturală începe de la fundație și drenaj, nu doar de la alegerea pietrei. La StoneLine te ajutăm să alegi materialul potrivit și să ai un montaj care rezistă la traficul și la iernile din România.
+Glaful din piatră naturală e o investiție mică raportată la impactul pe termen lung: stabilitate, aspect și întreținere ușoară. La StoneLine producem și montăm glafuri pe măsură — de la o fereastră la toată casa.
