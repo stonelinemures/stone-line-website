@@ -1,69 +1,89 @@
 ---
-title: "Granit – ghid complet: tipuri, utilizări, montaj și de ce e alegerea nr.
-  1 pentru blaturi"
-description: De ce granitul e alegerea nr. 1 pentru blaturi. Proprietăți,
-  finisaje, montaj, întreținere și comparație cu marmura și cuarțul.
-date: 2026-09-23
-category: Materiale
-image: /img/blog/granit-ghid-complet.webp
+title: "Piatră naturală pentru baie: ce materiale rezistă la umiditate și cum le
+  protejezi"
+description: "Ce piatră naturală alegi pentru baie: granit, marmură, travertin
+  sau andezit. Finisaje, montaj corect, greșeli de evitat."
+date: 2026-09-25
+category: Aplicații
+image: /img/blog/piatra-naturala-baie.webp
 ---
-Granitul este, pentru majoritatea proiectelor, cea mai echilibrată piatră naturală: foarte dur, rezistent la acizi și la căldură, cu întreținere redusă și o gamă enormă de culori și texturi.
+Baia este unul dintre cele mai solicitante medii pentru orice finisaj: umiditate permanentă, abur, produse cosmetice, variații de temperatură și risc de alunecare. Piatra naturală poate arăta spectaculos aici — dar doar dacă alegi materialul potrivit și îl protejezi corect.
 
-## Ce este granitul
+## Comparație materiale pentru baie
 
-Granitul este o rocă magmatică (igneă), formată prin răcirea lentă a magmei în adâncime. Structura sa cristalină îi conferă duritate mare, absorbție redusă de apă și rezistență excelentă la uzură.
+| Material | Rezistență umiditate | Rezistență produse | Aspect | Recomandare |
+|---|---|---|---|---|
+| Granit | Excelentă | Foarte bună | Robust, variat | Foarte recomandat |
+| Marmură | Bună (cu sigilare) | Scăzută (acizi) | Lux, vene unice | Recomandat (cu atenție) |
+| Travertin | Medie (cu sigilare) | Scăzută | Cald, mediteranean | Condizionat |
+| Andezit | Excelentă | Bună | Natural, contemporan | Recomandat (pardoseli, accente) |
 
-**Proprietăți orientative:** absorbție de apă ≤ 0,40%; densitate ~2.650 kg/m³; rezistență la compresiune ~180 MPa; duritate Mohs 6–7; rezistență la acizi și la căldură — foarte bună.
+## Unde se potrivește fiecare
 
-## De ce granitul e alegerea nr. 1 pentru blaturi
+**Granit — cea mai sigură alegere generală:** blaturi de lavoar, pardoseli, pervazuri, zone de duș (cu finisaj antiderapant). Întreținere redusă, rezistă bine la produse cosmetice.
 
-- **Duritate maximă** — rezistă excelent la zgârieturi de la cuțite și ustensile
-- **Rezistență la acizi** — lămâie, oțet, vin nu îl atacă ca pe marmură
-- **Rezistență la căldură** — suportă oale fierbinți (totuși, un suport rămâne recomandat)
-- **Întreținere redusă** — curățare cu detergent neutru + sigilare ocazională
-- **Gamă largă de aspecte** — de la negru absolut la nuanțe deschise cu cristale
+**Marmură — pentru băi de lux:** pardoseli, pereți, blaturi de lavoar, nișe, bookmatch. Cere sigilare periodică și evitarea acizilor. Aspectul merită efortul dacă ești atent.
 
-## Unde se potrivește granitul
+**Travertin — aspect cald:** bun pe pereți și pardoseli cu trafic moderat. Obligatoriu impermeabilizat. Evită zonele cu bălți permanente.
 
-| Aplicație | Recomandare | Observații |
+**Andezit — contemporan și rezistent:** excelent pe pardoseli și accente, mai ales în stil spa. Rezistență mare, întreținere redusă.
+
+## Finisaje potrivite în baie
+
+| Finisaj | Aderență | Unde e ideal în baie |
 |---|---|---|
-| Blat de bucătărie | Foarte recomandat | Alegerea cea mai sigură |
-| Blat de baie | Foarte recomandat | Rezistă la umiditate și produse |
-| Scări interioare / exterioare | Foarte recomandat | Finisaj antiderapant pe exterior |
-| Glafuri ferestre | Foarte recomandat | Durabil, ușor de curățat |
-| Pardoseli trafic intens | Recomandat | Rezistență la uzură |
-| Fațade / socluri | Recomandat | Stabilitate pe termen lung |
-| Pavaje / alei | Recomandat | Finisaj fiamat sau periat |
+| Lustruit | Slabă când e ud | Pereți, blaturi de lavoar (nu pardoseală udă) |
+| Periat / leathered | Bună | Blaturi, pardoseli, stil modern |
+| Fiamat | Foarte bună | Pardoseli, zone de duș, antiderapant |
+| Antichizat | Bună | Travertin, stil mediteranean / spa |
 
-## Granit vs marmură vs cuarț
+> Pe pardoseală și în zona de duș, prioritizează aderența. Lustruitul rămâne mai potrivit pe pereți și pe blaturi.
 
-| Criteriu | Granit | Marmură | Cuarț |
-|---|---|---|---|
-| Duritate | Excelentă | Medie | Foarte bună |
-| Rezistență acizi | Foarte bună | Scăzută | Bună |
-| Rezistență căldură | Excelentă | Bună | Medie |
-| Întreținere | Redusă | Mai atentă | Redusă |
-| Aspect | Natural, variat | Elegant, vene | Uniform, controlat |
-| Restaurare | Da | Da | Limitată |
+## Montaj corect în baie — esențial
 
-## Greșeli de evitat
+1. **Hidroizolație** pe pardoseală și pe pereții din zona de duș — obligatorie
+2. **Adeziv flexibil** pentru piatră naturală, rezistent la umiditate
+3. **Rosturi corecte** + chit rezistent la apă și mucegai
+4. **Pantă de scurgere** în zona de duș
+5. **Sigilare / impermeabilizare** după montaj, pe suprafață curată și uscată
+6. **Etanșare** la lavoar, la cadă/duș și la îmbinările cu alte materiale
 
-- Alegi doar după o mostră mică — vezi lastrele reale
-- Sari peste sigilare — reduce riscul de pete pe termen lung
-- Finisaj lustruit pe exterior umed — risc de alunecare
-- Ignori confirmarea lastrei înainte de debitare
+Un montaj greșit (fără hidroizolație sau cu rosturi necorespunzătoare) strică și cel mai bun material.
+
+## Recomandări pe zonă
+
+| Zonă din baie | Material recomandat | Finisaj recomandat |
+|---|---|---|
+| Blat lavoar | Granit sau marmură | Lustruit / periat / leathered |
+| Pardoseală | Granit, andezit, marmură | Periat / fiamat (antiderapant) |
+| Pereți / duș | Marmură, granit, travertin | Lustruit sau periat |
+| Nișe / accente | Marmură (bookmatch) | Lustruit |
+| Pervazuri / glafuri | Granit | Lustruit sau periat |
+
+## Greșeli frecvente în băi
+
+| Greșeală | Consecință | Cum eviți |
+|---|---|---|
+| Fără hidroizolație | Infiltrații, degradare suport | Hidroizolație profesională |
+| Finisaj lustruit pe pardoseală udă | Alunecare | Periat / fiamat / texturat |
+| Curățare cu acizi pe marmură | Pete mate permanente | Doar detergent neutru |
+| Fără sigilare | Pete, absorbție | Impermeabilizare după montaj |
+| Rosturi neetanșe | Mucegai, infiltrații | Chit potrivit + etanșare |
 
 ## Întrebări frecvente
 
-**Granitul se zgârie?**
-Foarte greu. Este unul dintre cele mai dure materiale naturale pentru blaturi. Cuțitele obișnuite nu îl zgârie ușor.
+**Pot pune marmură pe pardoseala băii?**
+Da, cu finisaj care oferă aderență (periat sau texturat), hidroizolație corectă și sigilare. Lustruitul pe pardoseală udă crește riscul de alunecare.
 
-**Care e diferența dintre granit și cuarț?**
-Granitul e 100% natural, rezistă mai bine la căldură și se poate restaura. Cuarțul e compozit (cu rășini), mai uniform, dar mai sensibil la căldură extremă.
+**Trebuie sigilată piatra din baie?**
+Da, recomandat — mai ales marmura și travertinul. Granitul și andezitul beneficiază și ele de o sigilare care ușurează curățarea.
 
-**Granitul e bun pe exterior în România?**
-Da. Cu finisaj fiamat sau periat și montaj corect, rezistă excelent la îngheț și uzură.
+**Se poate restaura o marmură din baie care s-a matizat?**
+Da, de obicei prin șlefuire și lustruire profesională, urmată de re-sigilare.
+
+**Oferiți montaj complet pentru băi?**
+Da. Hidroizolație, montaj piatră, rostuire, etanșare și impermeabilizare — cu echipă proprie.
 
 ---
 
-Granitul rămâne alegerea cea mai sigură și echilibrată pentru majoritatea proiectelor. La StoneLine te ajutăm să alegi sortimentul potrivit, să confirmi lastrele și să ai un montaj profesionist.
+În baie, prioritatea este combinația dintre rezistență la umiditate, siguranță (aderență) și întreținere realistă. La StoneLine te ajutăm să alegi materialul și finisajul potrivit și să ai un montaj corect, cu hidroizolație și protecție.
