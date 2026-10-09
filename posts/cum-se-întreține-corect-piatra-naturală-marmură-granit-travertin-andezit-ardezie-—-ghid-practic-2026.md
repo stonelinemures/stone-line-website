@@ -1,89 +1,82 @@
 ---
-title: "Piatră naturală pentru baie: ce materiale rezistă la umiditate și cum le
-  protejezi"
-description: "Ce piatră naturală alegi pentru baie: granit, marmură, travertin
-  sau andezit. Finisaje, montaj corect, greșeli de evitat."
+title: "Scări din piatră naturală: materiale, finisaje, montaj și siguranță"
+description: "Cum alegi piatra pentru scări interior și exterior: materiale,
+  finisaje antiderapante, montaj corect și greșeli de evitat."
 date: 2026-09-25
 category: Aplicații
-image: /img/blog/piatra-naturala-baie.webp
+image: /img/blog/scari-piatra-naturala.webp
 ---
-Baia este unul dintre cele mai solicitante medii pentru orice finisaj: umiditate permanentă, abur, produse cosmetice, variații de temperatură și risc de alunecare. Piatra naturală poate arăta spectaculos aici — dar doar dacă alegi materialul potrivit și îl protejezi corect.
+Scările din piatră naturală transformă un spațiu — dar trebuie să fie în același timp frumoase, rezistente și sigure. Alegerea greșită a materialului sau a finisajului poate duce la alunecări, uzură prematură sau costuri mari de reparație.
 
-## Comparație materiale pentru baie
+## Ce materiale se potrivesc pe scări
 
-| Material | Rezistență umiditate | Rezistență produse | Aspect | Recomandare |
-|---|---|---|---|---|
-| Granit | Excelentă | Foarte bună | Robust, variat | Foarte recomandat |
-| Marmură | Bună (cu sigilare) | Scăzută (acizi) | Lux, vene unice | Recomandat (cu atenție) |
-| Travertin | Medie (cu sigilare) | Scăzută | Cald, mediteranean | Condizionat |
-| Andezit | Excelentă | Bună | Natural, contemporan | Recomandat (pardoseli, accente) |
+| Material | Interior | Exterior | Observații |
+|---|---|---|---|
+| Granit | Excelent | Excelent | Dur, rezistent, ușor de întreținut |
+| Andezit | Foarte bun | Excelent | Ideal la exterior, antiderapant natural |
+| Marmură | Foarte bun | Limitat | Elegant, dar mai moale; atenție la acizi |
+| Travertin | Bun | Condizionat | Doar cu impermeabilizare + finisaj texturat |
+| Ardezie | Bun | Bun | Textură naturală antiderapantă |
 
-## Unde se potrivește fiecare
+## Finisaje — siguranța contează la fel de mult ca aspectul
 
-**Granit — cea mai sigură alegere generală:** blaturi de lavoar, pardoseli, pervazuri, zone de duș (cu finisaj antiderapant). Întreținere redusă, rezistă bine la produse cosmetice.
-
-**Marmură — pentru băi de lux:** pardoseli, pereți, blaturi de lavoar, nișe, bookmatch. Cere sigilare periodică și evitarea acizilor. Aspectul merită efortul dacă ești atent.
-
-**Travertin — aspect cald:** bun pe pereți și pardoseli cu trafic moderat. Obligatoriu impermeabilizat. Evită zonele cu bălți permanente.
-
-**Andezit — contemporan și rezistent:** excelent pe pardoseli și accente, mai ales în stil spa. Rezistență mare, întreținere redusă.
-
-## Finisaje potrivite în baie
-
-| Finisaj | Aderență | Unde e ideal în baie |
+| Finisaj | Aderență | Unde e ideal |
 |---|---|---|
-| Lustruit | Slabă când e ud | Pereți, blaturi de lavoar (nu pardoseală udă) |
-| Periat / leathered | Bună | Blaturi, pardoseli, stil modern |
-| Fiamat | Foarte bună | Pardoseli, zone de duș, antiderapant |
-| Antichizat | Bună | Travertin, stil mediteranean / spa |
+| Lustruit | Slabă când e ud | Doar interior uscat, trafic moderat |
+| Periat / leathered | Bună | Interior, scări cu risc moderat de umezeală |
+| Fiamat | Foarte bună | Exterior, zone umede, maximă siguranță |
+| Scapițat / natural | Foarte bună | Exterior, stil rustic |
+| Buceardat | Excelentă | Zone cu risc mare de alunecare |
 
-> Pe pardoseală și în zona de duș, prioritizează aderența. Lustruitul rămâne mai potrivit pe pereți și pe blaturi.
+> **Regulă practică:** pe exterior și pe orice scară care poate fi udă, evită lustruitul. Alege fiamat, periat, scapițat sau buceardat.
 
-## Montaj corect în baie — esențial
+## Interior vs exterior — diferențe importante
 
-1. **Hidroizolație** pe pardoseală și pe pereții din zona de duș — obligatorie
-2. **Adeziv flexibil** pentru piatră naturală, rezistent la umiditate
-3. **Rosturi corecte** + chit rezistent la apă și mucegai
-4. **Pantă de scurgere** în zona de duș
-5. **Sigilare / impermeabilizare** după montaj, pe suprafață curată și uscată
-6. **Etanșare** la lavoar, la cadă/duș și la îmbinările cu alte materiale
+**Scări interioare:** poți alege marmură sau granit lustruit/periat pentru aspect premium. Pe zone de acces cu umezeală (hol de la intrare), un finisaj cu textură e mai sigur.
 
-Un montaj greșit (fără hidroizolație sau cu rosturi necorespunzătoare) strică și cel mai bun material.
+**Scări exterioare:** prioritate absolută — rezistență la îngheț și aderență. Andezit sau granit, finisaj fiamat / scapițat / periat. Pantă de scurgere, montaj corect, eventual hidrofug.
 
-## Recomandări pe zonă
+## Montaj corect — pașii esențiali
 
-| Zonă din baie | Material recomandat | Finisaj recomandat |
-|---|---|---|
-| Blat lavoar | Granit sau marmură | Lustruit / periat / leathered |
-| Pardoseală | Granit, andezit, marmură | Periat / fiamat (antiderapant) |
-| Pereți / duș | Marmură, granit, travertin | Lustruit sau periat |
-| Nișe / accente | Marmură (bookmatch) | Lustruit |
-| Pervazuri / glafuri | Granit | Lustruit sau periat |
+1. **Structură stabilă** — beton sau structură solidă, fără mișcări
+2. **Măsurători precise** — treptele și contratreptele trebuie aliniate perfect
+3. **Adeziv flexibil** certificat pentru piatră naturală (și pentru exterior, dacă e cazul)
+4. **Rosturi corecte** — permit dilatarea, nu se montează cap la cap
+5. **Canturi și detalii** — muchii prelucrate, eventual antiderapant pe muchia treptei
+6. **Sigilare** — recomandată, mai ales pe marmură și travertin
 
-## Greșeli frecvente în băi
+## Detalii de siguranță pe care mulți le uită
+
+- **Muchia treptei** — poate fi rotunjită sau cu profil antiderapant
+- **Contrast vizual** — diferența de culoare/textură între treaptă și contratreaptă ajută la percepția adâncimii
+- **Iluminat** — scările prost luminate sunt periculoase, indiferent de material
+- **Balustradă / mână curentă** — obligatorie pe scările lungi sau exterioare
+- **Iarna** — pe exterior, evită sarea agresivă pe suprafețe noi
+
+## Greșeli frecvente
 
 | Greșeală | Consecință | Cum eviți |
 |---|---|---|
-| Fără hidroizolație | Infiltrații, degradare suport | Hidroizolație profesională |
-| Finisaj lustruit pe pardoseală udă | Alunecare | Periat / fiamat / texturat |
-| Curățare cu acizi pe marmură | Pete mate permanente | Doar detergent neutru |
-| Fără sigilare | Pete, absorbție | Impermeabilizare după montaj |
-| Rosturi neetanșe | Mucegai, infiltrații | Chit potrivit + etanșare |
+| Finisaj lustruit pe exterior | Alunecare, accidente | Fiamat / periat / scapițat |
+| Marmură pe scară exterioară expusă | Degradare, pete, fisuri | Granit sau andezit |
+| Montaj fără rosturi de dilatare | Fisuri | Rosturi corecte + chit flexibil |
+| Suport instabil | Desprinderi, crăpături | Structură solidă + adeziv potrivit |
+| Ignorarea muchiei treptei | Risc de alunecare / ciobire | Profil antiderapant sau cant rotunjit |
 
 ## Întrebări frecvente
 
-**Pot pune marmură pe pardoseala băii?**
-Da, cu finisaj care oferă aderență (periat sau texturat), hidroizolație corectă și sigilare. Lustruitul pe pardoseală udă crește riscul de alunecare.
+**Care e cea mai sigură piatră pentru scări exterioare?**
+Andezitul și granitul, cu finisaj fiamat, periat sau scapițat. Oferă rezistență la îngheț și aderență bună.
 
-**Trebuie sigilată piatra din baie?**
-Da, recomandat — mai ales marmura și travertinul. Granitul și andezitul beneficiază și ele de o sigilare care ușurează curățarea.
+**Cât durează montajul unei scări?**
+De obicei 2–5 zile pentru o scară interioară standard. Exteriorul poate dura mai mult.
 
-**Se poate restaura o marmură din baie care s-a matizat?**
-Da, de obicei prin șlefuire și lustruire profesională, urmată de re-sigilare.
+**Se pot reface treptele uzate?**
+Da, în multe cazuri — prin șlefuire, lustruire și re-sigilare. La daune severe se înlocuiesc piesele afectate.
 
-**Oferiți montaj complet pentru băi?**
-Da. Hidroizolație, montaj piatră, rostuire, etanșare și impermeabilizare — cu echipă proprie.
+**Ce grosime e recomandată pentru trepte?**
+De obicei 2–3 cm pentru placare pe suport existent; pentru trepte masive, grosimea se stabilește în funcție de proiect.
 
 ---
 
-În baie, prioritatea este combinația dintre rezistență la umiditate, siguranță (aderență) și întreținere realistă. La StoneLine te ajutăm să alegi materialul și finisajul potrivit și să ai un montaj corect, cu hidroizolație și protecție.
+Scările din piatră naturală trebuie gândite ca un sistem: material + finisaj + montaj + detalii de siguranță. La StoneLine proiectăm, debităm și montăm scări din piatră naturală — de la holuri elegante la scări exterioare rezistente.
