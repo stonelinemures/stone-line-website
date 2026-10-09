@@ -1,94 +1,90 @@
 ---
-title: "Restaurare și recondiționare piatră naturală: când merită și cum se face"
-description: "Restaurare și recondiționare piatră: șlefuire, lustruire,
-  re-impermeabilizare. Când merită, costuri orientative și ce se poate repara."
-date: 2026-09-11
-category: Servicii
-image: /img/blog/restaurare-piatra-naturala.webp
+title: Piatră naturală vs gresie vs cuarț vs ceramică – care e diferența reală?
+description: Comparație clară între piatră naturală, gresie, cuarț și ceramică.
+  Avantaje, limitări și când merită fiecare material.
+date: 2026-09-14
+category: Materiale
+image: /img/blog/piatra-naturala-vs-gresie-vs-cuart.webp
 ---
-Piatra naturală nu se aruncă la primul semn de uzură. În multe cazuri, o suprafață de marmură, granit, travertin sau andezit care arată mată, pătată sau zgâriată poate fi adusă aproape de aspectul inițial prin curățare profesională, șlefuire, lustruire și re-impermeabilizare.
+Când alegi finisajul pentru pardoseală, blat sau perete, ai de-a face cu patru categorii care se confundă ușor: piatra naturală, gresia, cuarțul (quartz / agglomerate) și ceramica. Toate pot arăta „ca piatra", dar se comportă diferit la uzură, la căldură, la acizi și în timp.
 
-## Când merită restaurarea (și când nu)
+## Ce este fiecare material
 
-**Merită de obicei când:**
-- Suprafața e doar mată, zgâriată superficial sau pătată
-- Rosturile sunt deteriorate, dar placa e intactă
-- Vrei să păstrezi materialul original (mai ales la piese rare sau istorice)
-- Costul restaurării e semnificativ mai mic decât înlocuirea
-
-**Nu merită (sau merită doar parțial) când:**
-- Plăcile sunt fisurate profund sau desprinse pe zone mari
-- Există infiltrații severe care au degradat suportul
-- Piatra s-a exfoliat pe adâncime (mai ales la exterior, după îngheț)
-- Costul restaurării se apropie de costul unui material nou + montaj
-
-> **Regulă practică:** dacă problema e la suprafață (aspect, pete, zgârieturi), restaurarea are șanse bune. Dacă problema e structurală (fisuri adânci, desprinderi, suport compromis), se discută înlocuire parțială sau totală.
-
-## Ce probleme se pot rezolva
-
-| Problemă | Se poate repara? | Cum se intervine |
+| Material | Ce este, de fapt | Origine |
 |---|---|---|
-| Aspect mat / pierderea luciului | Da | Șlefuire + lustruire progresivă |
-| Zgârieturi superficiale | Da | Șlefuire + lustruire |
-| Pete de apă, calcar, ulei (recente) | Da, de cele mai multe ori | Curățare profesională + tratament |
-| Pete vechi de acid pe marmură | Parțial | Șlefuire (matizarea e „arsă" în material) |
-| Rosturi crăpate sau lipsă | Da | Curățare + re-rostuire |
-| Pierderea hidrofugului | Da | Curățare + re-impermeabilizare |
-| Fisuri adânci / plăci sparte | Nu (de obicei) | Înlocuire placă |
+| Piatră naturală | Marmură, granit, travertin, andezit, ardezie etc. | Extrasă din carieră, prelucrată |
+| Gresie | Plăci ceramice presate, de obicei cu aspect de piatră | Industrial (argilă + minerale) |
+| Cuarț (quartz) | Agglomerate: ~90% cuarț natural + rășini | Industrial (compus) |
+| Ceramică | Plăci din argilă arsă (include și gresia porțelanată) | Industrial |
 
-## Cum decurge o restaurare profesională
+## Comparație pe criterii practice
 
-**Pasul 1 — Evaluare:** inspecția suprafeței, teste pe zonă mică, stabilirea pașilor și a rezultatului realist așteptat.
+| Criteriu | Piatră naturală | Gresie / ceramică | Cuarț |
+|---|---|---|---|
+| Unicitate aspect | Fiecare lastră e unică | Pattern repetitiv | Pattern controlat |
+| Rezistență zgârieturi | Granit/andezit: excelentă; marmură: medie | Foarte bună | Foarte bună |
+| Rezistență acizi | Granit/andezit: bună; marmură: slabă | Foarte bună | Bună |
+| Rezistență căldură | Excelentă (mai ales granit) | Bună | Medie (rășina poate suferi) |
+| Porozitate | Variabilă (se sigilează) | Foarte scăzută | Foarte scăzută |
+| Întreținere | Medie–ridicată | Scăzută | Scăzută |
+| Aspect natural | Maxim | Imitație | Semi-natural |
+| Preț orientativ | Mediu–premium | Accesibil–mediu | Mediu–premium |
+| Reparație / restaurare | Da (șlefuire, lustruire) | Limitată (se înlocuiește) | Limitată |
 
-**Pasul 2 — Curățare profundă:** îndepărtarea murdăriei, resturilor de chit, petelor tratabile; detergenți neutri sau soluții profesionale; clătire și uscare.
+## Piatră naturală — când e alegerea potrivită
 
-**Pasul 3 — Șlefuire (dacă e nevoie):** discuri abrazive de la granulometrie mare la una mai fină; egalizarea zgârieturilor; pe marmură, esențial pentru matizările de acid.
+**Avantaje:** aspect autentic, unicat; se poate restaura; granitul și andezitul sunt extrem de rezistente; valoare premium și durabilitate pe termen lung.
 
-**Pasul 4 — Lustruire / finisare:** lustruire mecanică până la nivelul de luciu dorit (sau finisaj mat/periat); pe unele materiale se aplică și cristalizare.
+**Limitări:** marmura și travertinul sunt sensibile la acizi; necesită sigilare periodică; prețul și montajul pot fi mai ridicate.
 
-**Pasul 5 — Re-rostuire (dacă e cazul):** îndepărtarea chitului deteriorat; aplicarea unui chit nou, flexibil și potrivit.
+**Ideal pentru:** blaturi din granit, fațade și pavaje din andezit/granit, băi de lux din marmură, proiecte unde autenticitatea contează.
 
-**Pasul 6 — Impermeabilizare:** aplicarea hidrofugului (aspect natural sau aspect umed); protejează împotriva petelor și a absorbției ulterioare.
+## Gresie / ceramică porțelanată — când merită
 
-## Costuri orientative (2026)
+**Avantaje:** preț mai accesibil; rezistență foarte bună la pete, acizi și uzură; întreținere minimă; gamă enormă de imitații; formate mari.
 
-| Tip de intervenție | Interval orientativ | Observații |
-|---|---|---|
-| Curățare profesională + impermeabilizare | 40–90 lei/mp | Fără șlefuire |
-| Șlefuire + lustruire (interior) | 80–160 lei/mp | În funcție de stare și material |
-| Restaurare completă | 100–220 lei/mp | Zone medii–grele |
-| Re-rostuire | 25–60 lei/ml | Depinde de lățimea rostului |
+**Limitări:** aspectul rămâne o imitație; nu se „reface" prin șlefuire — se înlocuiește; pe exterior calitatea variază.
 
-## Durate orientative
+**Ideal pentru:** bugete controlate, zone cu trafic intens unde vrei zero bătăi de cap, imitații reușite când autenticitatea nu e prioritară.
 
-| Suprafață / tip de lucrare | Durată orientativă |
+## Cuarț (quartz) — când e o opțiune bună
+
+**Avantaje:** aspect uniform, controlat; foarte rezistent la zgârieturi și pete; nu necesită sigilare ca piatra naturală; potrivit pentru blaturi de bucătărie.
+
+**Limitări:** nu e 100% natural (conține rășini); rezistență mai slabă la căldură extremă; se poate decolora la UV intens (unele sortimente); nu se restaurează la fel de bine.
+
+**Ideal pentru:** blaturi de bucătărie unde vrei uniformitate și întreținere redusă, fără a plăti neapărat un granit premium.
+
+## Tabel decisional rapid
+
+| Prioritatea ta | Alegerea recomandată |
 |---|---|
-| Blat de bucătărie | 4–8 ore (de obicei 1 zi) |
-| Pardoseală 20–40 mp | 1–3 zile |
-| Scări interioare complete | 1–3 zile |
-| Terasă / zonă exterioară medie | 2–5 zile (depinde de vreme) |
+| Aspect autentic, unicat, premium | Piatră naturală |
+| Zero bătăi de cap, buget controlat | Gresie porțelanată |
+| Blat uniform, rezistent, întreținere redusă | Cuarț sau granit |
+| Exterior (fațadă, pavaj, scări) | Andezit / granit |
+| Baie de lux | Marmură sau gresie premium |
+| Vrei să poți reface suprafața în timp | Piatră naturală |
 
-## Ce poți face tu înainte să suni o echipă
+## Mituri frecvente
 
-- Șterge suprafața cu detergent neutru și las-o uscată
-- Nu aplica oțet, lămâie sau produse abrazive „ca să vezi dacă se scoate"
-- Fotografiază zonele problematice (ziua, la lumină naturală)
-- Notează de când există problema și ce produse ai folosit
+**„Gresia arată la fel ca piatra."** La o privire rapidă, unele imitații sunt bune. La lumină naturală, la atingere și în timp, diferența de adâncime și de textură se vede.
+
+**„Piatra naturală e greu de întreținut."** Depinde de piatră. Granitul și andezitul sunt foarte ușor de întreținut. Marmura și travertinul cer mai multă atenție.
+
+**„Cuarțul e piatră naturală."** Nu. Este un material compozit (agglomerate) pe bază de cuarț natural + rășini.
 
 ## Întrebări frecvente
 
-**Se poate scoate o pată veche de ulei sau de vin de pe marmură?**
-Depinde de vechime și de cât de adânc a pătruns. Multe pete se reduc semnificativ; unele matizări de acid necesită șlefuire.
+**Ce aleg pe blat de bucătărie: granit, cuarț sau gresie?**
+Granitul — dacă vrei piatră naturală maxim rezistentă. Cuarțul — dacă vrei uniformitate și întreținere redusă. Gresia pe blat e mai rară și mai puțin premium.
 
-**După restaurare, blatul arată ca nou?**
-În majoritatea cazurilor, da — sau foarte aproape. Rezultatul depinde de starea inițială și de tipul de piatră.
+**Piatra naturală e mai scumpă mereu?**
+Nu neapărat. Există sortimente de granit și andezit cu preț competitiv. Gresia premium și cuarțul de top pot costa la fel de mult sau mai mult.
 
-**Lucrați și pe piatră exterioară (terase, scări, fațade)?**
-Da. Evaluăm starea, gradul de expunere și decidem împreună dacă restaurarea e suficientă sau dacă e nevoie de înlocuiri parțiale.
-
-**Oferiți garanție la lucrările de restaurare?**
-Da, pe execuție, în condițiile stabilite după evaluare și în contract.
+**Care rezistă mai bine la îngheț pe exterior?**
+Andezitul și granitul de calitate, montate corect. Gresia porțelanată de exterior poate rezista și ea, dar calitatea variază.
 
 ---
 
-Restaurarea pietrei naturale merită atunci când deteriorarea e în principal de suprafață. La StoneLine facem atât montaj nou, cât și recondiționare. Dacă ai o suprafață care și-a pierdut aspectul, trimite-ne câteva fotografii — îți spunem sincer dacă merită restaurată.
+Nu există un material „cel mai bun" în general — există materialul potrivit pentru locul, stilul și nivelul de întreținere pe care le accepți. La StoneLine lucrăm exclusiv cu piatră naturală și te ajutăm să alegi sortimentul potrivit — sau să înțelegi când merită să te uiți și la alte opțiuni.
