@@ -1,6 +1,6 @@
 ---
-title: "Piatra naturala pentru exterior in Romania: rezistenta la inghet, montaj
-  si greseli de evitat"
+title: "Piatră naturală pentru exterior în România: rezistență la îngheț, montaj
+  și greșeli de evitat"
 description: "Ce piatră rezistă la exterior în România: andezit, granit,
   travertin; montaj – greșeli de evitat și recomandări practice"
 date: 2026-09-03
