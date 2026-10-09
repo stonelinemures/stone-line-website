@@ -1,82 +1,81 @@
 ---
-title: "Travertin – ghid complet: tipuri, utilizări, montaj, întreținere și
+title: "Marmură – ghid complet: tipuri, utilizări, montaj, întreținere și
   greșeli de evitat"
-description: "Tot ce trebuie să știi despre travertin: tipuri, finisaje,
-  utilizări interior/exterior, montaj, întreținere și greșeli de evitat."
-date: 2026-09-18
+description: "Ghid marmură: Carrara, Calacatta, finisaje, unde se potrivește,
+  montaj, întreținere și greșeli frecvente. Recomandări practice."
+date: 2026-09-21
 category: Materiale
-image: /img/blog/travertin-ghid-complet.webp
+image: /img/blog/marmura-ghid-complet-2-.webp
 ---
-Travertinul este una dintre cele mai iubite pietre naturale pentru aspectul său cald, mediteranean și textura distinctă. În același timp, este și una dintre cele mai pretențioase: fiind poros, reacționează la apă și la acizi dacă nu este tratat și întreținut corect.
+Marmura rămâne simbolul eleganței în designul de interior. Venele unice, translucența subtilă și aspectul nobil o fac alegerea preferată pentru băi de lux, holuri, scări și accente decorative. În același timp, este o piatră pretențioasă: sensibilă la acizi și la zgârieturi dacă nu este aleasă și îngrijită corect.
 
-## Ce este travertinul
+## Ce este marmura
 
-Travertinul este o rocă sedimentară, formată din depuneri de carbonat de calciu din ape termale. Structura sa caracteristică include pori și cavități naturale, care îi dau aspectul inconfundabil.
+Marmura este o rocă metamorfică, formată prin recristalizarea calcarului sub presiune și temperatură. Compoziția predominantă de calcit îi dă aspect elegant cu vene unice, translucență subtilă, duritate moderată (Mohs 3–4) și sensibilitate la acizi.
 
-**Proprietăți orientative:** absorbție de apă până la ~2,5% (ridicată); densitate ~2.450 kg/m³; duritate Mohs 3–4; rezistență la acizi scăzută; aspect bej, crem, noce, silver.
+**Proprietăți orientative:** absorbție de apă ≤ 0,20%; densitate ~2.700 kg/m³; rezistență la compresiune ~100 MPa; rezistență la acizi scăzută.
 
-## Tipuri și finisaje frecvente
+## Tipuri și sortimente frecvente
 
-| Finisaj | Aspect | Unde se potrivește |
+| Sortiment | Aspect tipic | Unde se potrivește |
 |---|---|---|
-| Lustruit | Lucios, porii umpluți | Interior, zone uscate |
-| Periat | Mat, soft | Pardoseli, pereți, stil modern |
-| Antichizat | Uzat elegant, muchii moi | Terase, stil mediteranean |
-| Natural / scapițat | Texturat, rustic | Fațade, accente |
-| Umplut (filled) | Pori umpluți cu rășină | Zone unde vrei suprafață netedă |
-| Neumplut (unfilled) | Pori deschiși | Stil rustic, textură maximă |
+| Carrara | Alb-gri, vene gri fine | Băi, holuri, stil clasic |
+| Calacatta | Alb, vene groase aurii/gri | Lux, blaturi de baie, accente |
+| Statuario | Alb pur, vene dramatice | Proiecte premium |
+| Emperador | Maro, vene deschise | Stil clasic, contrast |
+| Nero Marquina | Negru, vene albe | Accente contemporane |
+| Crema Marfil | Bej cald, uniform | Spații calde, clasice |
+| Bookmatch | Vene oglindite simetric | Pereți de accent, luxury |
 
-## Unde merită folosit travertinul
+## Unde merită folosită marmura
 
-**Interior:** pardoseli (hol, living, trafic moderat); placări de perete; băi (cu impermeabilizare atentă); accente decorative.
+**Ideal:** băi de lux (pardoseli, pereți, blaturi de lavoar); holuri și livinguri; scări interioare; șemineuri și panouri decorative; accente de perete (inclusiv bookmatch).
 
-**Exterior (cu condiții stricte):** terase și zone de relaxare; alei pietonale; placări de fațadă (în zone protejate sau cu tratament corect).
+**Cu precauții:** blaturi de bucătărie (doar dacă ești foarte atent la acizi și accepți patina în timp).
 
-**Mai puțin recomandat:** blaturi de bucătărie intens folosite; zone cu bălți permanente sau fără pantă de scurgere.
+**Nu recomandat:** exterior expus; zone cu trafic extrem fără întreținere.
 
-## Avantaje și dezavantaje
+## Finisaje potrivite pentru marmură
 
-**Avantaje:** aspect cald, natural, greu de imitat perfect; preț de obicei mai accesibil decât marmura premium; textură interesantă; se potrivește stilurilor mediteranean, rustic, clasic și contemporan.
+| Finisaj | Aspect | Unde e ideal |
+|---|---|---|
+| Lustruit | Lucios, elegant | Băi, holuri, blaturi de baie |
+| Periat | Mat, soft | Stil modern, maschează urmele |
+| Leathered | Mat cu textură fină | Blaturi și zone contemporane |
+| Antichizat | Uzat elegant | Stil clasic / mediteranean |
 
-**Dezavantaje:** porozitate ridicată → absoarbe apă și lichide; sensibil la acizi; necesită impermeabilizare obligatorie și reînnoire periodică; pe exterior, fără pantă și fără tratament, riscă degradare la îngheț.
+## Întreținere corectă
 
-## Montaj — ce e esențial
+**Zilnic:** detergent neutru + lavetă moale; șterge imediat lichidele acide.
 
-1. Suport stabil, curat, uscat
-2. Pantă de scurgere pe exterior (minim 1–2%)
-3. Hidroizolație pe terase și în băi
-4. Adeziv flexibil pentru piatră naturală
-5. Rosturi corecte (nu montaj cap la cap)
-6. Impermeabilizare imediat după montaj, pe suprafață curată și uscată
+**Periodic:** re-sigilare la 6–12 luni pe blaturi și în zone umede; verificare aspect.
 
-La exterior, greșeala nr. 1 este montajul fără pantă și fără hidrofug.
+**De evitat cu orice preț:** oțet, lămâie, acid citric, produse anticalcar clasice; bureți abrazivi.
 
 ## Greșeli frecvente
 
 | Greșeală | Consecință | Cum eviți |
 |---|---|---|
-| Fără impermeabilizare | Pete, absorbție, degradare | Sigilare obligatorie după montaj |
-| Finisaj lustruit pe zonă umedă | Alunecare | Antichizat / periat pe exterior |
-| Lipsă pantă pe terasă | Bălți → îngheț → fisuri | Minim 1–2% pantă |
-| Curățare cu acizi | Matizare, pete permanente | Doar detergent neutru |
-
-## Travertin vs alte pietre
-
-- **Vs marmură:** mai texturat, de obicei mai accesibil, la fel de sensibil la acizi
-- **Vs granit:** mult mai poros și mai moale; granitul e net superior la rezistență
-- **Vs andezit:** andezitul câștigă clar la exterior greu (îngheț, uzură)
+| Curățare cu acizi | Pete mate permanente | Doar detergent neutru |
+| Fără sigilare | Pete, absorbție | Impermeabilizare după montaj |
+| Blat de bucătărie fără precauții | Matizări, zgârieturi | Granit sau atenție maximă |
+| Exterior expus fără protecție | Degradare la îngheț / acizi | Evită sau protejează foarte bine |
+| Mostre mici vs lastră reală | Surpriză la montaj | Vezi lastrele înainte de debitare |
 
 ## Întrebări frecvente
 
-**Pot pune travertin pe terasă în România?**
-Da, cu pantă corectă, hidroizolație, impermeabilizare și reînnoire periodică a tratamentului.
+**Se poate folosi marmură pe blat de bucătărie?**
+Da, dar cu precauții stricte. Mulți o aleg pentru aspect și acceptă o patină naturală în timp. Pentru uz intens, granitul e mai sigur.
 
-**Trebuie umpluți porii?**
-Depinde de aspectul dorit. „Filled" e mai ușor de curățat; „unfilled" e mai rustic.
+**Cum scot o pată de acid de pe marmură?**
+Petele mate (etching) nu se scot cu detergent. De obicei e nevoie de șlefuire și lustruire profesională.
 
-**E bun pe blat de bucătărie?**
-Nu este prima recomandare pentru o bucătărie intens folosită. Granitul rămâne mai sigur.
+**Oferiți bookmatch?**
+Da. Selectăm lastrele și le orientăm pentru efect simetric. Înainte de debitare îți trimitem fotografia lastrei exacte.
+
+**Faceți și restaurare de marmură?**
+Da — curățare, șlefuire, lustruire și re-impermeabilizare.
 
 ---
 
-Travertinul răsplătește pe cei care respectă regulile: impermeabilizare, pantă, detergent neutru și reînnoire periodică. La StoneLine te ajutăm să îl alegi, să îl montezi și să îl protejezi corect.
+Marmura merită atunci când prioritatea este eleganța și unicatul. Cere însă respectarea regulilor: sigilare, detergent neutru și intervenție rapidă la lichide acide. La StoneLine te ajutăm să alegi sortimentul potrivit și să ai un montaj sau o restaurare profesionistă.
