@@ -2,6 +2,7 @@
 title: "Marmură vs Granit vs Travertin vs Andezit: comparație completă 2026"
 description: "Ghid StoneLine cu date tehnice, utilizări și criterii practice de alegere pentru cele patru pietre naturale cele mai folosite în România."
 date: 2026-09-01
+image: /img/blog/marmura-vs-granit-travertin-andezit-comparatie-2026.webp
 category: Materiale
 ---
 
