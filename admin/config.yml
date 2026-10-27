@@ -1,0 +1,65 @@
+backend:
+  name: git-gateway
+  branch: main
+
+# Fișierele media (imagini pentru articole)
+media_folder: "img/blog"
+public_folder: "/img/blog"
+
+# Limba interfeței
+locale: ro
+
+collections:
+  - name: "posts"
+    label: "Articole Blog"
+    label_singular: "Articol"
+    folder: "posts"
+    create: true
+    slug: "{{slug}}"
+    preview_path: "/blog/{{slug}}/"
+    editor:
+      preview: false
+    fields:
+      - label: "Titlu articol"
+        name: "title"
+        widget: "string"
+        hint: "Titlul complet al articolului (apare în pagină și în tab-ul browserului)"
+
+      - label: "Meta description (max 160 caractere)"
+        name: "description"
+        widget: "string"
+        hint: "Descriere pentru Google și rețele sociale. Scrie concis, cu keyword-ul principal."
+        pattern: ['.{10,160}', "Minim 10, maxim 160 de caractere"]
+
+      - label: "Data publicării"
+        name: "date"
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+        date_format: "DD/MM/YYYY"
+        time_format: false
+        default: ""
+
+      - label: "Categorie"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Materiale", value: "Materiale" }
+          - { label: "Aplicații (baie, bucătărie, terasă...)", value: "Aplicații" }
+          - { label: "Ghiduri tehnice", value: "Ghiduri tehnice" }
+          - { label: "Servicii (montaj, restaurare)", value: "Servicii" }
+          - { label: "Prețuri și costuri", value: "Prețuri și costuri" }
+
+      - label: "Imagine principală (opțional)"
+        name: "image"
+        widget: "image"
+        required: false
+        hint: "Imagine pentru Open Graph (rețele sociale). Opțional."
+        media_library:
+          config:
+            multiple: false
+
+      - label: "Conținut articol"
+        name: "body"
+        widget: "markdown"
+        hint: "Scrie articolul în format Markdown. Folosește ## pentru titluri de secțiuni, ### pentru sub-titluri, **text** pentru bold."
+        modes: ["rich_text", "raw"]

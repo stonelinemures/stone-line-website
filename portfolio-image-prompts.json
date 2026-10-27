@@ -1,0 +1,125 @@
+{
+  "note_ro": "Prompturi gata de lipit în ChatGPT (Image) sau Google Gemini/Imagen. Toate folosesc aceeași formulă de stil, pentru ca cele 18 imagini să arate ca parte din același site, nu ca bucăți disparate. Sunt imagini generate/ilustrative, pentru paginile marcate PAGINĂ EXEMPLU — de înlocuit cu fotografii reale pe măsură ce apar.",
+  "style_guide": {
+    "base_style_suffix": "photorealistic, professional architectural photography, soft natural daylight, realistic stone texture and detail, calm elegant editorial style, no people, no text, no watermark, no logo, no illustration or render look",
+    "aspect_ratio_material_closeup": "1:1",
+    "aspect_ratio_gallery": "4:3",
+    "how_to_use": "Copiază exact valoarea din 'prompt', lipește în ChatGPT (cere o imagine) sau în Google Gemini/Imagen. Aspect ratio-ul e o sugestie — majoritatea tool-urilor permit alegerea lui separat, în UI."
+  },
+  "projects": [
+    {
+      "id": "proiect-1",
+      "title": "Fațadă din andezit",
+      "material": "Andezit",
+      "images": {
+        "material_closeup": {
+          "prompt": "Macro close-up photograph of a natural andesite stone slab, dark charcoal-grey volcanic texture with fine speckled grain, honed matte finish, soft studio side-lighting, shallow depth of field, neutral out-of-focus background. photorealistic, professional architectural photography, soft natural daylight, realistic stone texture and detail, calm elegant editorial style, no people, no text, no watermark, no logo, no illustration or render look",
+          "aspect_ratio": "1:1"
+        },
+        "gallery_1": {
+          "prompt": "Photograph of a modern residential house exterior with a façade clad in natural andesite stone, dark grey tones, clean geometric architecture, warm late-afternoon daylight, landscaped front garden. photorealistic, professional architectural photography, soft natural daylight, realistic stone texture and detail, calm elegant editorial style, no people, no text, no watermark, no logo, no illustration or render look",
+          "aspect_ratio": "4:3"
+        },
+        "gallery_2": {
+          "prompt": "Close-up photograph of andesite stone cladding detail on a building façade, showing the joint lines and natural stone texture, soft natural daylight, shallow depth of field. photorealistic, professional architectural photography, calm elegant editorial style, no people, no text, no watermark, no logo, no illustration or render look",
+          "aspect_ratio": "4:3"
+        }
+      }
+    },
+    {
+      "id": "proiect-2",
+      "title": "Pardoseală din marmură",
+      "material": "Marmură",
+      "images": {
+        "material_closeup": {
+          "prompt": "Macro close-up photograph of a polished natural marble slab, soft grey-white veining, glossy reflective finish, soft studio lighting, shallow depth of field, neutral background. photorealistic, professional architectural photography, calm elegant editorial style, no people, no text, no watermark, no logo, no illustration or render look",
+          "aspect_ratio": "1:1"
+        },
+        "gallery_1": {
+          "prompt": "Photograph of an elegant commercial interior lobby with a polished natural marble floor, soft veining pattern, large windows with natural daylight, minimalist modern furniture. photorealistic, professional architectural photography, soft natural daylight, calm elegant editorial style, no people, no text, no watermark, no logo, no illustration or render look",
+          "aspect_ratio": "4:3"
+        },
+        "gallery_2": {
+          "prompt": "Wide-angle photograph of a polished marble floor in a bright commercial space, reflecting natural light, clean modern interior, soft shadows. photorealistic, professional architectural photography, calm elegant editorial style, no people, no text, no watermark, no logo, no illustration or render look",
+          "aspect_ratio": "4:3"
+        }
+      }
+    },
+    {
+      "id": "proiect-3",
+      "title": "Șemineu din ardezie",
+      "material": "Ardezie",
+      "images": {
+        "material_closeup": {
+          "prompt": "Macro close-up photograph of natural slate stone, dark grey layered stratified texture, matte natural finish, soft studio lighting, shallow depth of field, neutral background. photorealistic, professional architectural photography, calm elegant editorial style, no people, no text, no watermark, no logo, no illustration or render look",
+          "aspect_ratio": "1:1"
+        },
+        "gallery_1": {
+          "prompt": "Photograph of a modern living room fireplace clad in natural slate stone, dark layered texture, warm ambient interior lighting, cozy minimalist décor. photorealistic, professional architectural photography, calm elegant editorial style, no people, no text, no watermark, no logo, no illustration or render look",
+          "aspect_ratio": "4:3"
+        },
+        "gallery_2": {
+          "prompt": "Close-up photograph of slate stone cladding detail around a fireplace, showing natural texture and joint lines, soft warm interior lighting. photorealistic, professional architectural photography, calm elegant editorial style, no people, no text, no watermark, no logo, no illustration or render look",
+          "aspect_ratio": "4:3"
+        }
+      }
+    },
+    {
+      "id": "proiect-4",
+      "title": "Terasă din travertin",
+      "material": "Travertin",
+      "images": {
+        "material_closeup": {
+          "prompt": "Macro close-up photograph of natural travertine stone, warm beige porous texture, honed matte finish, soft natural daylight, shallow depth of field, neutral background. photorealistic, professional architectural photography, calm elegant editorial style, no people, no text, no watermark, no logo, no illustration or render look",
+          "aspect_ratio": "1:1"
+        },
+        "gallery_1": {
+          "prompt": "Photograph of a residential outdoor terrace paved with natural travertine stone in French Pattern layout, warm beige tones, outdoor furniture, soft afternoon sunlight. photorealistic, professional architectural photography, calm elegant editorial style, no people, no text, no watermark, no logo, no illustration or render look",
+          "aspect_ratio": "4:3"
+        },
+        "gallery_2": {
+          "prompt": "Close-up photograph of travertine terrace paving detail, French Pattern layout with varying tile sizes, warm natural daylight, shallow depth of field. photorealistic, professional architectural photography, calm elegant editorial style, no people, no text, no watermark, no logo, no illustration or render look",
+          "aspect_ratio": "4:3"
+        }
+      }
+    },
+    {
+      "id": "proiect-5",
+      "title": "Placare din granit",
+      "material": "Granit",
+      "images": {
+        "material_closeup": {
+          "prompt": "Macro close-up photograph of a polished natural granite slab, speckled grey and black texture, glossy reflective finish, soft studio lighting, shallow depth of field, neutral background. photorealistic, professional architectural photography, calm elegant editorial style, no people, no text, no watermark, no logo, no illustration or render look",
+          "aspect_ratio": "1:1"
+        },
+        "gallery_1": {
+          "prompt": "Photograph of a modern commercial building exterior clad in polished natural granite, speckled grey tones, clean geometric architecture, daylight with soft shadows. photorealistic, professional architectural photography, calm elegant editorial style, no people, no text, no watermark, no logo, no illustration or render look",
+          "aspect_ratio": "4:3"
+        },
+        "gallery_2": {
+          "prompt": "Close-up photograph of granite cladding detail on a commercial building, showing joint lines and polished stone texture, natural daylight. photorealistic, professional architectural photography, calm elegant editorial style, no people, no text, no watermark, no logo, no illustration or render look",
+          "aspect_ratio": "4:3"
+        }
+      }
+    },
+    {
+      "id": "proiect-6",
+      "title": "Trepte din marmură",
+      "material": "Marmură",
+      "images": {
+        "material_closeup": {
+          "prompt": "Macro close-up photograph of a honed natural marble slab, subtle grey veining, soft matte finish, soft studio lighting, shallow depth of field, neutral background. photorealistic, professional architectural photography, calm elegant editorial style, no people, no text, no watermark, no logo, no illustration or render look",
+          "aspect_ratio": "1:1"
+        },
+        "gallery_1": {
+          "prompt": "Photograph of an elegant interior staircase with natural marble steps, subtle veining, soft ambient daylight, minimalist modern architecture. photorealistic, professional architectural photography, calm elegant editorial style, no people, no text, no watermark, no logo, no illustration or render look",
+          "aspect_ratio": "4:3"
+        },
+        "gallery_2": {
+          "prompt": "Close-up photograph of marble stair tread detail, showing natural veining and precise edge finishing, soft natural daylight. photorealistic, professional architectural photography, calm elegant editorial style, no people, no text, no watermark, no logo, no illustration or render look",
+          "aspect_ratio": "4:3"
+        }
+      }
+    }
+  ]
+}
