@@ -705,18 +705,19 @@ footer{background:var(--ink);color:rgba(243,241,236,.55);padding:50px 0;}
         <p>Spune-ne despre proiectul tău — revenim cu o propunere personalizată.</p>
       </div>
       <div class="contact-wrap">
-        <form name="contact" method="POST" action="multumim.html" data-netlify="true" netlify-honeypot="bot-field">
-          <input type="hidden" name="form-name" value="contact">
-          <p style="display:none;">
-            <label>Nu completa acest câmp dacă ești om: <input name="bot-field"></label>
-          </p>
+        <form name="contact" method="POST" action="https://api.web3forms.com/submit">
+          <input type="hidden" name="access_key" value="b0be8ec5-4649-409f-95db-a34aa14cbd7d">
+          <input type="hidden" name="subject" value="Solicitare nouă — stone-line.ro">
+          <input type="hidden" name="from_name" value="Stone Line website">
+          <input type="hidden" name="redirect" value="https://stone-line.ro/multumim.html">
+          <input type="checkbox" name="botcheck" style="display:none;" tabindex="-1" autocomplete="off">
           <div class="field">
             <label for="f-name">Nume</label>
             <input id="f-name" name="Nume" type="text" placeholder="Numele tău" required>
           </div>
           <div class="field">
             <label for="f-email">Email</label>
-            <input id="f-email" name="Email" type="email" placeholder="nume@companie.ro" required>
+            <input id="f-email" name="email" type="email" placeholder="nume@companie.ro" required>
           </div>
           <div class="field">
             <label for="f-phone">Telefon</label>

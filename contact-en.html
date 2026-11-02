@@ -715,18 +715,19 @@ footer{background:var(--ink);color:rgba(243,241,236,.55);padding:50px 0;}
         <p>Tell us about your project — we'll come back with a tailored proposal.</p>
       </div>
       <div class="contact-wrap">
-        <form name="contact" method="POST" action="multumim-en.html" data-netlify="true" netlify-honeypot="bot-field">
-          <input type="hidden" name="form-name" value="contact">
-          <p style="display:none;">
-            <label>Do not fill in this field if you are human: <input name="bot-field"></label>
-          </p>
+        <form name="contact" method="POST" action="https://api.web3forms.com/submit">
+          <input type="hidden" name="access_key" value="b0be8ec5-4649-409f-95db-a34aa14cbd7d">
+          <input type="hidden" name="subject" value="New enquiry — stone-line.ro">
+          <input type="hidden" name="from_name" value="Stone Line website">
+          <input type="hidden" name="redirect" value="https://stone-line.ro/multumim-en.html">
+          <input type="checkbox" name="botcheck" style="display:none;" tabindex="-1" autocomplete="off">
           <div class="field">
             <label for="f-name">Name</label>
             <input id="f-name" name="Name" type="text" placeholder="Your name" required>
           </div>
           <div class="field">
             <label for="f-email">Email</label>
-            <input id="f-email" name="Email" type="email" placeholder="name@company.com" required>
+            <input id="f-email" name="email" type="email" placeholder="name@company.com" required>
           </div>
           <div class="field">
             <label for="f-phone">Phone</label>
