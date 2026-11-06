@@ -2,6 +2,7 @@
 title: "Impermeabilizant pentru piatră naturală: aspect natural sau aspect umed?"
 description: "Cum alegi între impermeabilizant cu aspect natural și cu aspect umed: ce face fiecare, pe ce piatră, cum se aplică și cât de des se reînnoiește."
 date: 2026-11-06
+image: /img/blog/impermeabilizant-piatra-naturala-aspect-natural-umed.webp
 category: Ghiduri tehnice
 seoTitle: "Impermeabilizant piatră: aspect natural sau umed?"
 related: [intretinere-piatra-naturala, travertin-ghid-complet, marmura-ghid-complet, granit-ghid-complet]

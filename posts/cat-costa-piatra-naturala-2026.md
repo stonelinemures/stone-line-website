@@ -2,6 +2,7 @@
 title: "Cât costă piatra naturală în 2026? Ghid de prețuri orientative"
 description: "Prețuri orientative piatră naturală 2026: material, prelucrare și montaj. Ce influențează costul final și cum citești o ofertă corect."
 date: 2026-10-20
+image: /img/blog/cat-costa-piatra-naturala-2026.webp
 category: Prețuri și costuri
 seoTitle: "Cât costă piatra naturală în 2026? Prețuri orientative"
 related: [montaj-piatra-naturala, blaturi-bucatarie-piatra-naturala, cum-alegi-piatra-naturala-checklist]
