@@ -3,6 +3,10 @@ title: "Montaj piatră naturală: pași, costuri orientative și ce trebuie să 
 description: "Cum se face corect montajul pietrei naturale: pași, adezivi, costuri orientative, durate și greșeli frecvente de evitat."
 date: 2026-09-17
 category: Servicii
+seoTitle: "Montaj piatră naturală: pași și costuri 2026"
+related: [cat-costa-piatra-naturala-2026, cum-alegi-piatra-naturala-checklist, piatra-naturala-incalzire-in-pardoseala]
+materials: []
+services: [montaj, consultanta]
 ---
 
 Un material excelent montat greșit poate eșua în câțiva ani. Un material bun, montat corect, rezistă zeci de ani cu aspect îngrijit. Diferența nu stă doar în piatră, ci în pregătirea suportului, alegerea adezivului, rosturi, hidroizolație și execuție.

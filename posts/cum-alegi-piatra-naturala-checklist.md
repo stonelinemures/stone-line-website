@@ -3,6 +3,10 @@ title: "Cum alegi corect piatra naturală: checklist înainte de a comanda"
 description: "12 întrebări esențiale înainte de a comanda piatră naturală. Checklist practic care te scutește de greșeli costisitoare."
 date: 2026-10-24
 category: Ghiduri tehnice
+seoTitle: "Cum alegi piatra naturală: checklist în 12 pași"
+related: [cat-costa-piatra-naturala-2026, montaj-piatra-naturala, finisaje-piatra-naturala]
+materials: []
+services: [consultanta]
 ---
 
 Cea mai scumpă greșeală la piatra naturală nu e materialul — e alegerea greșită pentru locul greșit, sau un montaj făcut pe grabă. Acest checklist te ajută să treci prin toate deciziile importante înainte să comanzi.

@@ -4,6 +4,10 @@ description: "Ce piatră naturală alegi pentru baie: granit, marmură, traverti
 date: 2026-10-08
 image: /img/blog/piatra-naturala-baie.webp
 category: Aplicații
+seoTitle: "Piatră naturală pentru baie: ce rezistă la umiditate"
+related: [marmura-ghid-complet, granit-ghid-complet, intretinere-piatra-naturala]
+materials: [marmura, granit]
+services: [montaj]
 ---
 
 Baia este unul dintre cele mai solicitante medii pentru orice finisaj: umiditate permanentă, abur, produse cosmetice, variații de temperatură și risc de alunecare. Piatra naturală poate arăta spectaculos aici — dar doar dacă alegi materialul potrivit și îl protejezi corect.

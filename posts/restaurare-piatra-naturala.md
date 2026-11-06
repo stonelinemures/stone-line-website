@@ -4,6 +4,10 @@ description: "Restaurare și recondiționare piatră: șlefuire, lustruire, re-i
 date: 2026-09-22
 image: /img/blog/restaurare-piatra-naturala.webp
 category: Servicii
+seoTitle: "Restaurare piatră naturală: când merită și cum"
+related: [intretinere-piatra-naturala, marmura-ghid-complet, montaj-piatra-naturala]
+materials: [marmura]
+services: [restaurare]
 ---
 
 Piatra naturală nu se aruncă la primul semn de uzură. În multe cazuri, o suprafață de marmură, granit, travertin sau andezit care arată mată, pătată sau zgâriată poate fi adusă aproape de aspectul inițial prin curățare profesională, șlefuire, lustruire și re-impermeabilizare.

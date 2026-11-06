@@ -4,6 +4,10 @@ description: "Cum alegi finisajul pietrei: lustruit, periat, fiamat, scapițat, 
 date: 2026-09-29
 image: /img/blog/finisaje-piatra-naturala.webp
 category: Ghiduri tehnice
+seoTitle: "Finisaje piatră: lustruit, fiamat, periat | Stone Line"
+related: [scari-piatra-naturala, pavaje-alei-piatra-naturala, granit-ghid-complet]
+materials: [granit, andezit]
+services: [consultanta]
 ---
 
 Finisajul schimbă complet aspectul, senzația la atingere și comportamentul pietrei. Același granit sau andezit poate arăta elegant și lucios sau rustic și antiderapant — în funcție de cum e prelucrată suprafața.

@@ -4,6 +4,10 @@ description: "Ghid StoneLine cu date tehnice, utilizări și criterii practice d
 date: 2026-09-01
 image: /img/blog/marmura-vs-granit-travertin-andezit-comparatie-2026.webp
 category: Materiale
+seoTitle: "Marmură vs granit vs travertin vs andezit | Stone Line"
+related: [granit-ghid-complet, marmura-ghid-complet, travertin-ghid-complet]
+materials: [marmura, granit, travertin, andezit]
+services: [consultanta]
 ---
 
 Alegerea pietrei naturale potrivite nu se face doar după aspect. Fiecare material are o origine geologică diferită, proprietăți tehnice distincte și un comportament diferit în timp — mai ales în climatul românesc, cu cicluri repetate de îngheț-dezgheț, variații de temperatură și umiditate ridicată.

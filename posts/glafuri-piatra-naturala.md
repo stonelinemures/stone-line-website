@@ -4,6 +4,10 @@ description: "Ghid glafuri din piatră naturală: granit, marmură, andezit. Int
 date: 2026-10-17
 image: /img/blog/glafuri-piatra-naturala.webp
 category: Aplicații
+seoTitle: "Glafuri din piatră naturală: material și montaj"
+related: [granit-ghid-complet, scari-piatra-naturala, montaj-piatra-naturala]
+materials: [granit]
+services: [montaj]
 ---
 
 Glaful este un detaliu aparent mic, dar foarte expus: pe el stau ghivece, se sprijină coate, primește soare, ploaie, condens și, la exterior, cicluri de îngheț. Un glaf din PVC sau lemn se poate deforma; unul din piatră naturală rămâne stabil, elegant și ușor de curățat zeci de ani.

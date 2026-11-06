@@ -4,6 +4,10 @@ description: "Cum alegi piatra pentru scări interior și exterior: materiale, f
 date: 2026-10-10
 image: /img/blog/scari-piatra-naturala.webp
 category: Aplicații
+seoTitle: "Scări din piatră naturală: materiale și siguranță"
+related: [finisaje-piatra-naturala, granit-ghid-complet, andezit-fatade-exterior]
+materials: [granit, andezit]
+services: [montaj]
 ---
 
 Scările din piatră naturală transformă un spațiu — dar trebuie să fie în același timp frumoase, rezistente și sigure. Alegerea greșită a materialului sau a finisajului poate duce la alunecări, uzură prematură sau costuri mari de reparație.

@@ -4,6 +4,10 @@ description: "Comparație clară între piatră naturală, gresie, cuarț și ce
 date: 2026-09-24
 image: /img/blog/piatra-naturala-vs-gresie-vs-cuart.webp
 category: Materiale
+seoTitle: "Piatră naturală vs gresie vs cuarț: diferențe"
+related: [blaturi-bucatarie-piatra-naturala, granit-ghid-complet, cat-costa-piatra-naturala-2026]
+materials: [granit]
+services: [consultanta]
 ---
 
 Când alegi finisajul pentru pardoseală, blat sau perete, ai de-a face cu patru categorii care se confundă ușor: piatra naturală, gresia, cuarțul (quartz / agglomerate) și ceramica. Toate pot arăta „ca piatra", dar se comportă diferit la uzură, la căldură, la acizi și în timp.

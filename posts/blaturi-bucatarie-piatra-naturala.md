@@ -4,6 +4,10 @@ description: "Cum alegi blatul din piatră naturală: granit, marmură sau trave
 date: 2026-09-08
 image: /img/blog/blaturi-bucatarie-piatra-naturala.webp
 category: Aplicații
+seoTitle: "Blaturi din piatră naturală: granit sau marmură?"
+related: [granit-ghid-complet, intretinere-piatra-naturala, cat-costa-piatra-naturala-2026]
+materials: [granit, marmura]
+services: [montaj, consultanta]
 ---
 
 Blatul de bucătărie este una dintre cele mai solicitate suprafețe din casă. Trebuie să reziste la căldură, zgârieturi, pete, umiditate și la uzura zilnică — și, în același timp, să arate impecabil ani de zile.

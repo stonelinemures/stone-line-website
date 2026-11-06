@@ -4,6 +4,10 @@ description: "Ghid marmură: Carrara, Calacatta, finisaje, unde se potrivește, 
 date: 2026-10-03
 image: /img/blog/marmura-ghid-complet.webp
 category: Materiale
+seoTitle: "Marmură: tipuri, utilizări, întreținere | Stone Line"
+related: [piatra-naturala-baie, placare-semineu-piatra-naturala, intretinere-piatra-naturala]
+materials: [marmura]
+services: [restaurare]
 ---
 
 Marmura rămâne simbolul eleganței în designul de interior. Venele unice, translucența subtilă și aspectul nobil o fac alegerea preferată pentru băi de lux, holuri, scări și accente decorative. În același timp, este o piatră pretențioasă: sensibilă la acizi și la zgârieturi dacă nu este aleasă și îngrijită corect.

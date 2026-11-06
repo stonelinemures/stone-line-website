@@ -45,7 +45,7 @@
     })(window, document, "clarity", "script", "yjmvkg2vxs");
 </script>
 
-<title>{{ title }} — StoneLine</title>
+<title>{{ seoTitle if seoTitle else (title + " — StoneLine") }}</title>
 <meta name="description" content="{{ description }}">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://stone-line.ro/blog/{{ page.fileSlug }}/">
@@ -58,21 +58,27 @@
 <meta property="og:site_name" content="StoneLine — Piatră Naturală Cristești">
 {% if image %}<meta property="og:image" content="https://stone-line.ro{{ image }}">{% endif %}
 <meta property="article:published_time" content="{{ date | dateISO }}">
-<meta property="article:author" content="Echipa StoneLine">
+<meta property="article:author" content="Alex Kozak">
 
 <!-- JSON-LD Article structured data -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "{{ title }}",
-  "description": "{{ description }}",
+  "headline": {{ title | dump | safe }},
+  "description": {{ description | dump | safe }},
   "datePublished": "{{ date | dateISO }}",
-  "dateModified": "{{ date | dateISO }}",
+  "dateModified": "{{ (updated or date) | dateISO }}",
+  {% if image %}"image": "https://stone-line.ro{{ image }}",{% endif %}
   "author": {
-    "@type": "Organization",
-    "name": "StoneLine",
-    "url": "https://stone-line.ro"
+    "@type": "Person",
+    "name": "Alex Kozak",
+    "jobTitle": "CEO & CTO",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Stone Line",
+      "url": "https://stone-line.ro"
+    }
   },
   "publisher": {
     "@type": "Organization",
@@ -87,6 +93,17 @@
     "@type": "WebPage",
     "@id": "https://stone-line.ro/blog/{{ page.fileSlug }}/"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Stone Line", "item": "https://stone-line.ro/"},
+    {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://stone-line.ro/blog/"},
+    {"@type": "ListItem", "position": 3, "name": {{ title | dump | safe }}, "item": "https://stone-line.ro/blog/{{ page.fileSlug }}/"}
+  ]
 }
 </script>
 
@@ -240,6 +257,18 @@ footer{background:var(--ink);color:rgba(243,241,236,.55);padding:50px 0;}
 .post-hero-img{width:100%;max-height:520px;overflow:hidden;border-bottom:1px solid var(--line);}
 .post-hero-img img{width:100%;height:520px;object-fit:cover;display:block;}
 @media(max-width:720px){.post-hero-img img{height:240px;}}
+/* ── Author / related ── */
+.post-extras{padding-top:8px;}
+.author-box{border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:22px 0;margin-bottom:40px;}
+.author-label{font-family:var(--mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--stone-dim);margin-bottom:6px;}
+.author-name{font-family:var(--serif);font-size:20px;color:var(--ink);font-weight:600;}
+.author-role{font-size:14px;color:var(--slate);margin-top:2px;}
+.post-related{margin-bottom:36px;}
+.post-related h2{font-size:20px;margin-bottom:12px;}
+.post-related ul li{padding:9px 0;border-bottom:1px solid var(--line);font-size:15px;}
+.post-related ul li a{color:var(--ink);text-decoration:underline;text-underline-offset:3px;text-decoration-color:var(--stone);}
+.post-related ul li a:hover{color:var(--stone-dim);}
+
 
 </style>
 </head>
@@ -282,20 +311,56 @@ footer{background:var(--ink);color:rgba(243,241,236,.55);padding:50px 0;}
         <div class="post-meta-dot"></div>
         <span>{{ content | readingTime }}</span>
         <div class="post-meta-dot"></div>
-        <span>Echipa StoneLine</span>
+        <span>Alex Kozak, CEO &amp; CTO Stone Line</span>
       </div>
     </div>
   </header>
 
   {% if image %}
   <div class="post-hero-img">
-    <img src="{{ image }}" alt="{{ title }}" width="1200" height="675" loading="eager">
+    <img src="{{ image }}" alt="{{ imageAlt if imageAlt else title }}" width="1200" height="675" loading="eager">
   </div>
   {% endif %}
 
   <div class="post-body">
     <div class="post-content wrap-narrow">
       {{ content | safe }}
+    </div>
+    <div class="post-extras wrap-narrow">
+      <div class="author-box">
+        <div class="author-label">Autor</div>
+        <div class="author-name">Alex Kozak</div>
+        <div class="author-role">CEO &amp; CTO, Stone Line</div>
+      </div>
+      {% set linkMap = {
+        "marmura": ["Marmură naturală", "/marmura.html"],
+        "granit": ["Granit natural", "/granit.html"],
+        "travertin": ["Travertin", "/travertin.html"],
+        "andezit": ["Andezit", "/andezit.html"],
+        "ardezie": ["Ardezie", "/ardezie.html"],
+        "montaj": ["Montaj piatră naturală", "/montaj-piatra-naturala.html"],
+        "restaurare": ["Restaurare piatră naturală", "/restaurare-piatra-naturala.html"],
+        "consultanta": ["Consultanță gratuită", "/consultanta.html"]
+      } %}
+      {% if related %}
+      <div class="post-related">
+        <h2>Citește și</h2>
+        <ul>
+          {% for p in collections.posts %}{% if p.fileSlug in related %}
+          <li><a href="{{ p.url }}">{{ p.data.title }}</a></li>
+          {% endif %}{% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+      {% if materials or services %}
+      <div class="post-related">
+        <h2>Materiale și servicii Stone Line</h2>
+        <ul>
+          {% for k in materials %}{% if linkMap[k] %}<li><a href="{{ linkMap[k][1] }}">{{ linkMap[k][0] }}</a></li>{% endif %}{% endfor %}
+          {% for k in services %}{% if linkMap[k] %}<li><a href="{{ linkMap[k][1] }}">{{ linkMap[k][0] }}</a></li>{% endif %}{% endfor %}
+        </ul>
+      </div>
+      {% endif %}
     </div>
   </div>
 

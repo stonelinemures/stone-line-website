@@ -3,6 +3,10 @@ title: "Granit – ghid complet: tipuri, utilizări, montaj și de ce e alegerea
 description: "De ce granitul e alegerea nr. 1 pentru blaturi. Proprietăți, finisaje, montaj, întreținere și comparație cu marmura și cuarțul."
 date: 2026-10-06
 category: Materiale
+seoTitle: "Granit: ghid complet pentru blaturi și exterior"
+related: [blaturi-bucatarie-piatra-naturala, glafuri-piatra-naturala, placare-semineu-piatra-naturala]
+materials: [granit]
+services: [montaj]
 ---
 
 Granitul este, pentru majoritatea proiectelor, cea mai echilibrată piatră naturală: foarte dur, rezistent la acizi și la căldură, cu întreținere redusă și o gamă enormă de culori și texturi.

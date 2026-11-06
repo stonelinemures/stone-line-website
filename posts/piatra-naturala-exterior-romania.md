@@ -4,6 +4,10 @@ description: "Ce piatră rezistă la exterior în România: andezit, granit, tra
 date: 2026-09-03
 image: /img/blog/piatra-naturala-exterior-romania.webp
 category: Ghiduri tehnice
+seoTitle: "Piatră naturală pentru exterior în România | Stone Line"
+related: [andezit-fatade-exterior, pavaje-alei-piatra-naturala, sare-deszapezire-piatra-naturala]
+materials: [andezit, granit]
+services: [montaj]
 ---
 
 Piatra naturală la exterior trebuie să reziste la ceva ce materialele de interior nu întâlnesc aproape niciodată: ciclurile repetate de îngheț-dezgheț, ploi acide, radiație UV, sare de deszăpezire și variații de temperatură de peste 50°C pe parcursul anului.

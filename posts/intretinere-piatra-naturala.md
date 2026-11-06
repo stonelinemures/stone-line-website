@@ -4,6 +4,10 @@ description: "Cum curăți și protejezi piatra naturală. Detergent neutru, imp
 date: 2026-09-10
 image: /img/blog/intretinere-piatra-naturala.webp
 category: Ghiduri tehnice
+seoTitle: "Cum întreții piatra naturală: ghid practic 2026"
+related: [restaurare-piatra-naturala, marmura-ghid-complet, impermeabilizant-piatra-naturala-aspect-natural-umed]
+materials: [marmura, travertin, granit]
+services: [restaurare]
 ---
 
 Piatra naturală este durabilă, dar nu este „indestructibilă fără griji". Fiecare tip de piatră are un comportament diferit la apă, acizi, uleiuri și uzură zilnică. Întreținerea corectă face diferența între un material care arată impecabil 20 de ani și unul care se pătează, se matizează sau se degradează în câțiva ani.

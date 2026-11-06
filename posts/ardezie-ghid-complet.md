@@ -3,6 +3,10 @@ title: "Ardezie – ghid complet: tipuri, utilizări, montaj și întreținere"
 description: "Ghid complet ardezie: proprietăți, utilizări, finisaje, montaj și întreținere. Cum deosebești ardezia bună de cea slabă."
 date: 2026-10-22
 category: Materiale
+seoTitle: "Ardezie: ghid complet, utilizări și întreținere"
+related: [fatade-piatra-naturala, piatra-naturala-exterior-romania, placare-semineu-piatra-naturala]
+materials: [ardezie]
+services: [montaj]
 ---
 
 Ardezia este o piatră naturală cu personalitate: textură stratificată, nuanțe de gri, negru, verde sau mov, și o suprafață care oferă aderență naturală. Este folosită de secole pe acoperișuri, dar și pe fațade, pardoseli, scări și accente decorative.

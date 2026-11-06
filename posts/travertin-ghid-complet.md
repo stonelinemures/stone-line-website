@@ -4,6 +4,10 @@ description: "Tot ce trebuie să știi despre travertin: tipuri, finisaje, utili
 date: 2026-10-01
 image: /img/blog/travertin-ghid-complet.webp
 category: Materiale
+seoTitle: "Travertin: ghid complet de utilizare | Stone Line"
+related: [travertin-french-pattern-ghid, piatra-naturala-exterior-romania, intretinere-piatra-naturala]
+materials: [travertin]
+services: [montaj]
 ---
 
 Travertinul este una dintre cele mai iubite pietre naturale pentru aspectul său cald, mediteranean și textura distinctă. În același timp, este și una dintre cele mai pretențioase: fiind poros, reacționează la apă și la acizi dacă nu este tratat și întreținut corect.

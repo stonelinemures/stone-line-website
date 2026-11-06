@@ -4,6 +4,10 @@ description: "Ghid fațade din piatră naturală: andezit, granit, sisteme de mo
 date: 2026-10-13
 image: /img/blog/fatade-piatra-naturala.webp
 category: Aplicații
+seoTitle: "Fațade din piatră naturală: materiale și montaj"
+related: [andezit-fatade-exterior, piatra-naturala-exterior-romania, montaj-piatra-naturala]
+materials: [andezit, granit]
+services: [montaj]
 ---
 
 O fațadă din piatră naturală dă clădirii greutate vizuală, durabilitate și un aspect care nu se demodează. În climatul României — cu îngheț-dezgheț, ploi și variații mari de temperatură — alegerea materialului și a sistemului de montaj decide dacă fațada arată bine 30 de ani sau începe să aibă probleme în 5–10 ani.

@@ -4,6 +4,10 @@ description: "De ce andezitul e excelent pentru fațade, pavaje și scări exter
 date: 2026-09-15
 image: /img/blog/andezit-fatade-exterior.webp
 category: Materiale
+seoTitle: "Andezit pentru fațade și pavaje în România"
+related: [fatade-piatra-naturala, pavaje-alei-piatra-naturala, piatra-naturala-exterior-romania]
+materials: [andezit]
+services: [montaj]
 ---
 
 Andezitul este una dintre cele mai subestimate, dar și una dintre cele mai potrivite pietre naturale pentru climatul României. Format prin solidificarea lavei vulcanice, are o densitate mare, absorbție redusă de apă și o rezistență excelentă la ciclurile de îngheț-dezgheț — exact ce ai nevoie pe fațade, socluri, pavaje, alei și scări exterioare.

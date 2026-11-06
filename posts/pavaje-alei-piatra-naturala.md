@@ -4,6 +4,10 @@ description: "Cum alegi piatra pentru pavaje și alei: andezit, granit, traverti
 date: 2026-10-15
 image: /img/blog/pavaje-alei-piatra-naturala.webp
 category: Aplicații
+seoTitle: "Pavaje și alei din piatră naturală: ghid practic"
+related: [andezit-fatade-exterior, finisaje-piatra-naturala, sare-deszapezire-piatra-naturala]
+materials: [andezit, granit]
+services: [montaj]
 ---
 
 Un pavaj din piatră naturală poate arăta impecabil zeci de ani — sau se poate denivela, păta și crăpa în câteva sezoane. Diferența stă în alegerea materialului, în pregătirea fundației și în detaliile de montaj (pantă, rosturi, drenaj).
