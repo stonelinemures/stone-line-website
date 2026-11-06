@@ -49,6 +49,46 @@ collections:
           - { label: "Servicii (montaj, restaurare)", value: "Servicii" }
           - { label: "Prețuri și costuri", value: "Prețuri și costuri" }
 
+      - label: "Titlu pentru Google (max 60 caractere, opțional)"
+        name: "seoTitle"
+        widget: "string"
+        required: false
+        hint: "Titlul care apare în rezultatele Google. Maxim 60 de caractere; dacă îl lași gol se folosește titlul articolului."
+        pattern: ['^.{0,60}$', "Maxim 60 de caractere"]
+
+      - label: "Articole similare (3-4)"
+        name: "related"
+        widget: "relation"
+        collection: "posts"
+        search_fields: ["title"]
+        value_field: "{{slug}}"
+        display_fields: ["title"]
+        multiple: true
+        required: false
+        max: 4
+
+      - label: "Pagini de material de legat"
+        name: "materials"
+        widget: "select"
+        multiple: true
+        required: false
+        options:
+          - { label: "Marmură", value: "marmura" }
+          - { label: "Granit", value: "granit" }
+          - { label: "Travertin", value: "travertin" }
+          - { label: "Andezit", value: "andezit" }
+          - { label: "Ardezie", value: "ardezie" }
+
+      - label: "Servicii de legat"
+        name: "services"
+        widget: "select"
+        multiple: true
+        required: false
+        options:
+          - { label: "Montaj", value: "montaj" }
+          - { label: "Restaurare", value: "restaurare" }
+          - { label: "Consultanță", value: "consultanta" }
+
       - label: "Imagine principală (opțional)"
         name: "image"
         widget: "image"
