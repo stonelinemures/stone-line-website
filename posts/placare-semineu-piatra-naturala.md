@@ -1,8 +1,7 @@
 ---
 title: "Placare șemineu cu piatră naturală: ce material alegi și ce trebuie respectat"
 description: "Ce piatră naturală alegi pentru un șemineu: granit, ardezie, marmură sau travertin. Zone, șoc termic, montaj sigur și întreținere împotriva funinginii."
-date: 2026-11-06
-image: /img/blog/placare-semineu-piatra-naturala.webp
+date: 2026-10-28
 category: Aplicații
 seoTitle: "Placare șemineu cu piatră naturală: materiale"
 related: [granit-ghid-complet, marmura-ghid-complet, ardezie-ghid-complet, impermeabilizant-piatra-naturala-aspect-natural-umed]

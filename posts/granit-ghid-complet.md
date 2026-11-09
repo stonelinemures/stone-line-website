@@ -2,7 +2,6 @@
 title: "Granit – ghid complet: tipuri, utilizări, montaj și de ce e alegerea nr. 1 pentru blaturi"
 description: "De ce granitul e alegerea nr. 1 pentru blaturi. Proprietăți, finisaje, montaj, întreținere și comparație cu marmura și cuarțul."
 date: 2026-10-06
-image: /img/blog/granit-ghid-complet.webp
 category: Materiale
 seoTitle: "Granit: ghid complet pentru blaturi și exterior"
 related: [blaturi-bucatarie-piatra-naturala, glafuri-piatra-naturala, placare-semineu-piatra-naturala]

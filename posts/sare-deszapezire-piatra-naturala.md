@@ -1,8 +1,7 @@
 ---
 title: "Sare de deszăpezire și piatră naturală: ce deteriorează și ce alegi în schimb"
 description: "Cum afectează sarea de deszăpezire piatra naturală, ce pietre sunt mai expuse și ce poți folosi în loc: ghid practic pentru terase, trepte și alei."
-date: 2026-11-06
-image: /img/blog/sare-deszapezire-piatra-naturala.webp
+date: 2026-10-27
 category: Ghiduri tehnice
 seoTitle: "Sare de deszăpezire și piatră naturală: ce e permis"
 related: [piatra-naturala-exterior-romania, pavaje-alei-piatra-naturala, travertin-ghid-complet, finisaje-piatra-naturala]

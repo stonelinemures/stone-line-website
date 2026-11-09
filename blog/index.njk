@@ -195,8 +195,9 @@ footer{background:var(--ink);color:rgba(243,241,236,.55);padding:50px 0;}
     <div class="blog-grid" id="postGrid">
       {% for post in posts %}
       <a href="{{ post.url }}" class="post-card" data-cat="{{ post.data.category }}">
-        {% if post.data.image %}
-        <div class="post-card-img"><img src="{{ post.data.image }}" alt="{{ post.data.title }}" loading="lazy" width="400" height="200"></div>
+        {% set cardImg = post.data.image or (post.fileSlug | blogImage) %}
+        {% if cardImg %}
+        <div class="post-card-img"><img src="{{ cardImg }}" alt="{{ post.data.title }}" loading="lazy" width="400" height="200"></div>
         {% else %}
         <div class="post-card-no-img"><span class="post-card-no-img-icon">🪨</span></div>
         {% endif %}

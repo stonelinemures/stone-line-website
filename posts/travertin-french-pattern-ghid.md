@@ -1,7 +1,7 @@
 ---
 title: "Travertin French Pattern: ce este, dimensiuni, montaj și costuri"
 description: "Ce este modelul French Pattern la travertin: dimensiunile setului, unde se folosește, cum se montează și cât costă. Ghid Stone Line."
-date: 2026-11-06
+date: 2026-10-26
 image: /img/blog/travertin-french-pattern-ghid.webp
 imageAlt: "Pardoseală de terasă acoperită din travertin în model French Pattern, cu plăci de mai multe dimensiuni"
 category: Materiale

@@ -1,8 +1,7 @@
 ---
 title: "Piatră naturală pe încălzire în pardoseală: se poate și ce trebuie respectat"
 description: "Se poate monta piatră naturală pe încălzire în pardoseală? Da, cu șapă uscată, punere în funcțiune treptată, adeziv flexibil și rosturi de mișcare."
-date: 2026-11-06
-image: /img/blog/piatra-naturala-incalzire-in-pardoseala.webp
+date: 2026-10-27
 category: Aplicații
 seoTitle: "Piatră naturală pe încălzire în pardoseală: ghid"
 related: [montaj-piatra-naturala, granit-ghid-complet, marmura-ghid-complet, cum-alegi-piatra-naturala-checklist]

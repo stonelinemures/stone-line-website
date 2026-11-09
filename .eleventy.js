@@ -1,4 +1,5 @@
 const { DateTime } = require("luxon");
+const fs = require("fs");
 
 module.exports = function(eleventyConfig) {
 
@@ -26,6 +27,12 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(new Date(dateVal), { zone: "utc" })
       .setLocale("ro")
       .toFormat("d MMMM yyyy");
+  });
+
+  // Hero image by convention: img/blog/<slug>.webp (used only if the file exists)
+  eleventyConfig.addFilter("blogImage", (slug) => {
+    const rel = `img/blog/${slug}.webp`;
+    return fs.existsSync(rel) ? `/${rel}` : "";
   });
 
   // ISO date for <time datetime="">
