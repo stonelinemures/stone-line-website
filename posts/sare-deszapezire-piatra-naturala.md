@@ -60,13 +60,13 @@ Dacă sarea nu poate fi evitată, același ghid arată că produsele pe bază de
 
 Aderența unei suprafețe exterioare vine mai ales din **textură**, nu din sare. Alege finisaje antiderapante la exterior, cum se discută în [ghidul de finisaje](/blog/finisaje-piatra-naturala/): fiamat, periat, scapițat sau buceardat. Finisajul lustruit devine foarte alunecos când e ud și nu se recomandă la exterior.
 
-La alegerea materialului, [andezitul](/andezit.html) și granitul rămân opțiunile cele mai sigure pentru exterior, după cum arată ghidurile despre [piatra naturală pentru exterior în România](/blog/piatra-naturala-exterior-romania/) și despre [pavaje și alei](/blog/pavaje-alei-piatra-naturala/). Dacă ai deja travertin la exterior, vezi condițiile din [ghidul de travertin](/blog/travertin-ghid-complet/) și tratează sarea ca pe un risc real.
+La alegerea materialului, [andezitul](/andezit) și granitul rămân opțiunile cele mai sigure pentru exterior, după cum arată ghidurile despre [piatra naturală pentru exterior în România](/blog/piatra-naturala-exterior-romania/) și despre [pavaje și alei](/blog/pavaje-alei-piatra-naturala/). Dacă ai deja travertin la exterior, vezi condițiile din [ghidul de travertin](/blog/travertin-ghid-complet/) și tratează sarea ca pe un risc real.
 
 ## Dacă s-au văzut deja urme
 
 Petele albe sunt, de regulă, eflorescențe. Ghidul Historic Environment Scotland recomandă ca depunerile de sare să fie periate de pe piatra uscată și îndepărtate din zonă, ca să nu pătrundă din nou în piatră. Dacă ai de făcut reparații, sarea trebuie îndepărtată înainte, altfel ajunge în materialul de reparație și îi scade durata de viață.
 
-Verifică primăvara rosturile și starea hidrofugului. Dacă vezi desprinderi sau suprafață sfărâmicioasă, avem serviciul de [restaurare](/restaurare-piatra-naturala.html): evaluăm starea și îți spunem sincer dacă merită intervenția.
+Verifică primăvara rosturile și starea hidrofugului. Dacă vezi desprinderi sau suprafață sfărâmicioasă, avem serviciul de [restaurare](/restaurare-piatra-naturala): evaluăm starea și îți spunem sincer dacă merită intervenția.
 
 ## Întrebări frecvente
 
@@ -87,4 +87,4 @@ Depinde de gravitate. Petele și degradarea de suprafață se pot trata prin cur
 
 ---
 
-Cea mai bună strategie la exterior este cea mai simplă: material cu absorbție redusă, finisaj antiderapant, zăpadă îndepărtată la timp și, dacă nu ai încotro, sare cât mai puțină. Dacă ai un proiect de terasă, trepte sau alee, cere o [consultanță gratuită](/consultanta.html).
+Cea mai bună strategie la exterior este cea mai simplă: material cu absorbție redusă, finisaj antiderapant, zăpadă îndepărtată la timp și, dacă nu ai încotro, sare cât mai puțină. Dacă ai un proiect de terasă, trepte sau alee, cere o [consultanță gratuită](/consultanta).

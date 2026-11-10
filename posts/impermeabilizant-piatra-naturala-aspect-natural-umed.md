@@ -108,4 +108,4 @@ Trimite-ne o fotografie și spune-ne unde este montată piatra (interior sau ext
 
 ---
 
-Impermeabilizarea corectă începe cu alegerea între natural și umed, apoi cu o aplicare făcută pe suprafață uscată și cu un test pe zonă ascunsă. Dacă piatra ta a pierdut deja tratamentul sau s-a pătat, vezi și serviciul nostru de [restaurare](/restaurare-piatra-naturala.html) sau cere o [consultanță gratuită](/consultanta.html).
+Impermeabilizarea corectă începe cu alegerea între natural și umed, apoi cu o aplicare făcută pe suprafață uscată și cu un test pe zonă ascunsă. Dacă piatra ta a pierdut deja tratamentul sau s-a pătat, vezi și serviciul nostru de [restaurare](/restaurare-piatra-naturala) sau cere o [consultanță gratuită](/consultanta).

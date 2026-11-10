@@ -83,7 +83,7 @@ Alegerea ține și de locul în care se montează piatra (interior uscat, baie, 
 
 ## Cine face ce
 
-Pe un șantier cu încălzire în pardoseală intervin trei specialiști: **instalatorul sistemului de încălzire**, cel care face **șapa** și **montatorul pietrei**. Este important ca ei să se pună de acord asupra ordinii: șapa se usucă, încălzirea se pune în funcțiune, apoi se montează piatra. La Stone Line montăm piatra cu echipă proprie, după ce suportul este pregătit. Dacă vrei să verifici planul înainte, cere o [consultanță gratuită](/consultanta.html).
+Pe un șantier cu încălzire în pardoseală intervin trei specialiști: **instalatorul sistemului de încălzire**, cel care face **șapa** și **montatorul pietrei**. Este important ca ei să se pună de acord asupra ordinii: șapa se usucă, încălzirea se pune în funcțiune, apoi se montează piatra. La Stone Line montăm piatra cu echipă proprie, după ce suportul este pregătit. Dacă vrei să verifici planul înainte, cere o [consultanță gratuită](/consultanta).
 
 ## Întrebări frecvente
 
@@ -104,4 +104,4 @@ Flexibil, modificat cu polimeri, potrivit pietrei și sistemului de încălzire,
 
 ---
 
-Piatra naturală pe încălzire în pardoseală este o combinație reușită, dar o pardoseală bine făcută se decide înainte să ajungă piatra pe șantier: șapa, punerea în funcțiune și rosturile de mișcare. Dacă ai un proiect de acest tip, trimite-ne planul pe WhatsApp sau cere o [consultanță gratuită](/consultanta.html).
+Piatra naturală pe încălzire în pardoseală este o combinație reușită, dar o pardoseală bine făcută se decide înainte să ajungă piatra pe șantier: șapa, punerea în funcțiune și rosturile de mișcare. Dacă ai un proiect de acest tip, trimite-ne planul pe WhatsApp sau cere o [consultanță gratuită](/consultanta).

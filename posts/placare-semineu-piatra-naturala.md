@@ -85,4 +85,4 @@ Periat sau leathered pentru urme mai puțin vizibile; lustruit pentru un aspect 
 
 ---
 
-Un șemineu din piatră naturală reușit pornește de la zone: material sigur lângă focar, decor pe perete și montaj care respectă regulile producătorului focarului. Dacă ai un proiect, trimite-ne dimensiunile și tipul de focar pe WhatsApp sau cere o [consultanță gratuită](/consultanta.html).
+Un șemineu din piatră naturală reușit pornește de la zone: material sigur lângă focar, decor pe perete și montaj care respectă regulile producătorului focarului. Dacă ai un proiect, trimite-ne dimensiunile și tipul de focar pe WhatsApp sau cere o [consultanță gratuită](/consultanta).

@@ -61,7 +61,7 @@ La travertin, aspectul se schimbă mult în funcție de finisaj:
 3. impermeabilizare imediat după montaj și reînnoire periodică — vezi [impermeabilizantul cu aspect natural sau umed](/blog/impermeabilizant-piatra-naturala-aspect-natural-umed/);
 4. atenție la gheață: o prezentare tehnică depusă la comisia de monumente din New York, privind dalajul unei piețe exterioare, citează recomandarea Marble Institute of America împotriva travertinului la exterior, în locurile unde se folosesc săruri de deszăpezire. Am detaliat în articolul despre [sarea de deszăpezire și piatra naturală](/blog/sare-deszapezire-piatra-naturala/).
 
-În zonele cu ierni grele sau cu trafic intens, [andezitul](/andezit.html) sau granitul rămân alegerile mai sigure.
+În zonele cu ierni grele sau cu trafic intens, [andezitul](/andezit) sau granitul rămân alegerile mai sigure.
 
 ## Montaj: ce contează la un model modular
 
@@ -106,4 +106,4 @@ Da, în showroom-ul din Cristești, Mureș. Înainte de debitare îți trimitem 
 
 ---
 
-Travertinul French Pattern merită atunci când vrei aspect cald și natural și ești dispus să respecți regulile de montaj și întreținere. Dacă ai un proiect, trimite-ne planul sau câteva fotografii pe WhatsApp, sau cere o [consultanță gratuită](/consultanta.html).
+Travertinul French Pattern merită atunci când vrei aspect cald și natural și ești dispus să respecți regulile de montaj și întreținere. Dacă ai un proiect, trimite-ne planul sau câteva fotografii pe WhatsApp, sau cere o [consultanță gratuită](/consultanta).
