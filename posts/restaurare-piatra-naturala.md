@@ -5,7 +5,7 @@ date: 2026-09-22
 image: /img/blog/restaurare-piatra-naturala.webp
 category: Servicii
 seoTitle: "Restaurare piatră naturală: când merită și cum"
-related: [intretinere-piatra-naturala, marmura-ghid-complet, montaj-piatra-naturala]
+related: [intretinere-piatra-naturala, marmura-ghid-complet, montaj-piatra-naturala, pete-pe-marmura-etching-vs-pata]
 materials: [marmura]
 services: [restaurare]
 ---

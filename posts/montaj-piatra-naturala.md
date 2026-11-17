@@ -4,7 +4,7 @@ description: "Cum se face corect montajul pietrei naturale: pași, adezivi, cost
 date: 2026-09-17
 category: Servicii
 seoTitle: "Montaj piatră naturală: pași și costuri 2026"
-related: [cat-costa-piatra-naturala-2026, cum-alegi-piatra-naturala-checklist, piatra-naturala-incalzire-in-pardoseala]
+related: [cat-costa-piatra-naturala-2026, cum-alegi-piatra-naturala-checklist, piatra-naturala-incalzire-in-pardoseala, piatra-naturala-mures-transilvania]
 materials: []
 services: [montaj, consultanta]
 ---

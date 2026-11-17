@@ -5,7 +5,7 @@ date: 2026-09-29
 image: /img/blog/finisaje-piatra-naturala.webp
 category: Ghiduri tehnice
 seoTitle: "Finisaje piatră: lustruit, fiamat, periat | Stone Line"
-related: [scari-piatra-naturala, pavaje-alei-piatra-naturala, granit-ghid-complet]
+related: [scari-piatra-naturala, pavaje-alei-piatra-naturala, granit-ghid-complet, fisa-tehnica-piatra-naturala-cum-o-citesti]
 materials: [granit, andezit]
 services: [consultanta]
 ---

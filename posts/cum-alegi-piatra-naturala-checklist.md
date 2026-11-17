@@ -4,7 +4,7 @@ description: "12 întrebări esențiale înainte de a comanda piatră naturală.
 date: 2026-10-24
 category: Ghiduri tehnice
 seoTitle: "Cum alegi piatra naturală: checklist în 12 pași"
-related: [cat-costa-piatra-naturala-2026, montaj-piatra-naturala, finisaje-piatra-naturala]
+related: [cat-costa-piatra-naturala-2026, montaj-piatra-naturala, finisaje-piatra-naturala, fisa-tehnica-piatra-naturala-cum-o-citesti]
 materials: []
 services: [consultanta]
 ---

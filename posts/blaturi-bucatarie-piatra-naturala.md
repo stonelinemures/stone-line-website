@@ -5,7 +5,7 @@ date: 2026-09-08
 image: /img/blog/blaturi-bucatarie-piatra-naturala.webp
 category: Aplicații
 seoTitle: "Blaturi din piatră naturală: granit sau marmură?"
-related: [granit-ghid-complet, intretinere-piatra-naturala, cat-costa-piatra-naturala-2026]
+related: [granit-ghid-complet, intretinere-piatra-naturala, cat-costa-piatra-naturala-2026, granit-radioactiv-radon-blat]
 materials: [granit, marmura]
 services: [montaj, consultanta]
 ---

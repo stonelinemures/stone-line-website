@@ -5,7 +5,7 @@ date: 2026-09-10
 image: /img/blog/intretinere-piatra-naturala.webp
 category: Ghiduri tehnice
 seoTitle: "Cum întreții piatra naturală: ghid practic 2026"
-related: [restaurare-piatra-naturala, marmura-ghid-complet, impermeabilizant-piatra-naturala-aspect-natural-umed]
+related: [restaurare-piatra-naturala, marmura-ghid-complet, impermeabilizant-piatra-naturala-aspect-natural-umed, pete-pe-marmura-etching-vs-pata]
 materials: [marmura, travertin, granit]
 services: [restaurare]
 ---

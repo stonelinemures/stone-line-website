@@ -5,7 +5,7 @@ date: 2026-09-03
 image: /img/blog/piatra-naturala-exterior-romania.webp
 category: Ghiduri tehnice
 seoTitle: "Piatră naturală pentru exterior în România | Stone Line"
-related: [andezit-fatade-exterior, pavaje-alei-piatra-naturala, sare-deszapezire-piatra-naturala]
+related: [andezit-fatade-exterior, pavaje-alei-piatra-naturala, sare-deszapezire-piatra-naturala, fisa-tehnica-piatra-naturala-cum-o-citesti]
 materials: [andezit, granit]
 services: [montaj]
 ---

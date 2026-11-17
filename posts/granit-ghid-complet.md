@@ -4,7 +4,7 @@ description: "De ce granitul e alegerea nr. 1 pentru blaturi. Proprietăți, fin
 date: 2026-10-06
 category: Materiale
 seoTitle: "Granit: ghid complet pentru blaturi și exterior"
-related: [blaturi-bucatarie-piatra-naturala, glafuri-piatra-naturala, placare-semineu-piatra-naturala]
+related: [blaturi-bucatarie-piatra-naturala, glafuri-piatra-naturala, placare-semineu-piatra-naturala, granit-radioactiv-radon-blat]
 materials: [granit]
 services: [montaj]
 ---

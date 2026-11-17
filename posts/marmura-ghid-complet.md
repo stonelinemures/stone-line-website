@@ -5,7 +5,7 @@ date: 2026-10-03
 image: /img/blog/marmura-ghid-complet.webp
 category: Materiale
 seoTitle: "Marmură: tipuri, utilizări, întreținere | Stone Line"
-related: [piatra-naturala-baie, placare-semineu-piatra-naturala, intretinere-piatra-naturala]
+related: [piatra-naturala-baie, placare-semineu-piatra-naturala, intretinere-piatra-naturala, pete-pe-marmura-etching-vs-pata]
 materials: [marmura]
 services: [restaurare]
 ---
