@@ -347,7 +347,7 @@
   <!-- Blog posts -->
   <url>
     <loc>https://stone-line.ro/blog/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ro" href="https://stone-line.ro/blog/" />
@@ -371,7 +371,7 @@
   </url>
   <url>
     <loc>https://stone-line.ro/blog/blaturi-bucatarie-piatra-naturala/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ro" href="https://stone-line.ro/blog/blaturi-bucatarie-piatra-naturala/" />
@@ -387,7 +387,7 @@
   </url>
   <url>
     <loc>https://stone-line.ro/blog/cum-alegi-piatra-naturala-checklist/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ro" href="https://stone-line.ro/blog/cum-alegi-piatra-naturala-checklist/" />
@@ -403,7 +403,7 @@
   </url>
   <url>
     <loc>https://stone-line.ro/blog/finisaje-piatra-naturala/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ro" href="https://stone-line.ro/blog/finisaje-piatra-naturala/" />
@@ -419,7 +419,7 @@
   </url>
   <url>
     <loc>https://stone-line.ro/blog/granit-ghid-complet/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ro" href="https://stone-line.ro/blog/granit-ghid-complet/" />
@@ -427,7 +427,7 @@
   </url>
   <url>
     <loc>https://stone-line.ro/blog/intretinere-piatra-naturala/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ro" href="https://stone-line.ro/blog/intretinere-piatra-naturala/" />
@@ -435,7 +435,7 @@
   </url>
   <url>
     <loc>https://stone-line.ro/blog/marmura-ghid-complet/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ro" href="https://stone-line.ro/blog/marmura-ghid-complet/" />
@@ -451,7 +451,7 @@
   </url>
   <url>
     <loc>https://stone-line.ro/blog/montaj-piatra-naturala/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ro" href="https://stone-line.ro/blog/montaj-piatra-naturala/" />
@@ -475,7 +475,7 @@
   </url>
   <url>
     <loc>https://stone-line.ro/blog/piatra-naturala-exterior-romania/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ro" href="https://stone-line.ro/blog/piatra-naturala-exterior-romania/" />
@@ -491,7 +491,7 @@
   </url>
   <url>
     <loc>https://stone-line.ro/blog/restaurare-piatra-naturala/</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ro" href="https://stone-line.ro/blog/restaurare-piatra-naturala/" />
@@ -552,5 +552,45 @@
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ro" href="https://stone-line.ro/blog/placare-semineu-piatra-naturala/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://stone-line.ro/blog/placare-semineu-piatra-naturala/" />
+  </url>
+  <url>
+    <loc>https://stone-line.ro/blog/granit-radioactiv-radon-blat/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://stone-line.ro/blog/granit-radioactiv-radon-blat/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://stone-line.ro/blog/granit-radioactiv-radon-blat/" />
+  </url>
+  <url>
+    <loc>https://stone-line.ro/blog/marcaj-ce-declaratie-performanta-piatra-naturala/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://stone-line.ro/blog/marcaj-ce-declaratie-performanta-piatra-naturala/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://stone-line.ro/blog/marcaj-ce-declaratie-performanta-piatra-naturala/" />
+  </url>
+  <url>
+    <loc>https://stone-line.ro/blog/fisa-tehnica-piatra-naturala-cum-o-citesti/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://stone-line.ro/blog/fisa-tehnica-piatra-naturala-cum-o-citesti/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://stone-line.ro/blog/fisa-tehnica-piatra-naturala-cum-o-citesti/" />
+  </url>
+  <url>
+    <loc>https://stone-line.ro/blog/piatra-naturala-mures-transilvania/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://stone-line.ro/blog/piatra-naturala-mures-transilvania/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://stone-line.ro/blog/piatra-naturala-mures-transilvania/" />
+  </url>
+  <url>
+    <loc>https://stone-line.ro/blog/pete-pe-marmura-etching-vs-pata/</loc>
+    <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ro" href="https://stone-line.ro/blog/pete-pe-marmura-etching-vs-pata/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://stone-line.ro/blog/pete-pe-marmura-etching-vs-pata/" />
   </url>
 </urlset>
