@@ -5,7 +5,7 @@ date: 2026-10-13
 image: /img/blog/fatade-piatra-naturala.webp
 category: Aplicații
 seoTitle: "Fațade din piatră naturală: materiale și montaj"
-related: [andezit-fatade-exterior, piatra-naturala-exterior-romania, montaj-piatra-naturala]
+related: [andezit-fatade-exterior, piatra-naturala-exterior-romania, montaj-piatra-naturala, soclu-piatra-naturala]
 materials: [andezit, granit]
 services: [montaj]
 ---

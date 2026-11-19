@@ -63,7 +63,7 @@ Marmura este o rocă metamorfică, formată prin recristalizarea calcarului sub 
 | Fără sigilare | Pete, absorbție | Impermeabilizare după montaj |
 | Blat de bucătărie fără precauții | Matizări, zgârieturi | Granit sau atenție maximă |
 | Exterior expus fără protecție | Degradare la îngheț / acizi | Evită sau protejează foarte bine |
-| Mostre mici vs lastră reală | Surpriză la montaj | Vezi lastrele înainte de debitare |
+| Mostre mici vs lastră reală | Surpriză la montaj | Vezi lastrele înainte de producție |
 
 ## Întrebări frecvente
 
@@ -74,7 +74,7 @@ Da, dar cu precauții stricte. Mulți o aleg pentru aspect și acceptă o patin�
 Petele mate (etching) nu se scot cu detergent. De obicei e nevoie de șlefuire și lustruire profesională.
 
 **Oferiți bookmatch?**
-Da. Selectăm lastrele și le orientăm pentru efect simetric. Înainte de debitare îți trimitem fotografia lastrei exacte.
+Da. Selectăm lastrele și le orientăm pentru efect simetric. Înainte de producție îți trimitem fotografia lastrei exacte din care se face piesa.
 
 **Faceți și restaurare de marmură?**
 Da — curățare, șlefuire, lustruire și re-impermeabilizare.

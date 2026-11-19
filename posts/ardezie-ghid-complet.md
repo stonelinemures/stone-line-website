@@ -2,6 +2,7 @@
 title: "Ardezie – ghid complet: tipuri, utilizări, montaj și întreținere"
 description: "Ghid complet ardezie: proprietăți, utilizări, finisaje, montaj și întreținere. Cum deosebești ardezia bună de cea slabă."
 date: 2026-10-22
+image: /img/blog/ardezie-ghid-complet.webp
 category: Materiale
 seoTitle: "Ardezie: ghid complet, utilizări și întreținere"
 related: [fatade-piatra-naturala, piatra-naturala-exterior-romania, placare-semineu-piatra-naturala]

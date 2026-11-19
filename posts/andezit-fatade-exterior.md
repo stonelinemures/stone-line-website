@@ -5,7 +5,7 @@ date: 2026-09-15
 image: /img/blog/andezit-fatade-exterior.webp
 category: Materiale
 seoTitle: "Andezit pentru fațade și pavaje în România"
-related: [fatade-piatra-naturala, pavaje-alei-piatra-naturala, piatra-naturala-exterior-romania]
+related: [fatade-piatra-naturala, pavaje-alei-piatra-naturala, piatra-naturala-exterior-romania, soclu-piatra-naturala]
 materials: [andezit]
 services: [montaj]
 ---

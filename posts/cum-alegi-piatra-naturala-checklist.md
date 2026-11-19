@@ -2,6 +2,7 @@
 title: "Cum alegi corect piatra naturală: checklist înainte de a comanda"
 description: "12 întrebări esențiale înainte de a comanda piatră naturală. Checklist practic care te scutește de greșeli costisitoare."
 date: 2026-10-24
+image: /img/blog/cum-alegi-piatra-naturala-checklist.webp
 category: Ghiduri tehnice
 seoTitle: "Cum alegi piatra naturală: checklist în 12 pași"
 related: [cat-costa-piatra-naturala-2026, montaj-piatra-naturala, finisaje-piatra-naturala, fisa-tehnica-piatra-naturala-cum-o-citesti]
@@ -33,7 +34,7 @@ Granit și andezit = întreținere redusă. Marmură și travertin = sigilare pe
 
 ## 5. Ai văzut lastrele reale, nu doar mostre mici?
 
-Mostrele mici înșală. Culoarea, vena și textura se judecă pe lastră, la lumină naturală. La StoneLine poți veni în showroom și, înainte de debitare, îți trimitem fotografia lastrei exacte din care se face piesa.
+Mostrele mici înșală. Culoarea, vena și textura se judecă pe lastră, la lumină naturală. La StoneLine poți veni în showroom și, înainte de producție, îți trimitem fotografia lastrei exacte din care se face piesa.
 
 ## 6. Ce finisaj e potrivit locului?
 
@@ -53,7 +54,7 @@ Materialul bun + montaj greșit = probleme. Verifică: experiență cu piatră n
 - Material separat de prelucrare și de montaj?
 - Canturi, decupaje, etanșare incluse?
 - Finisajul specificat?
-- Confirmare lastre înainte de debitare?
+- Confirmare lastre sau mostre înainte de producție?
 - Transport și manipulare?
 - Garanție montaj?
 
@@ -92,7 +93,7 @@ Pozele de pe internet nu înlocuiesc o discuție pe proiect real: unde se montea
 ## Întrebări frecvente
 
 **Pot decide doar după poze online?**
-Nu e suficient. Lumina, textura și vena se văd pe lastră. Ideal: showroom + fotografia lastrei înainte de debitare.
+Nu e suficient. Lumina, textura și vena se văd pe lastră. Ideal: showroom + fotografia lastrei sau a mostrei înainte de producție.
 
 **Ce e mai important: materialul sau montajul?**
 Ambele. Un material excelent montat greșit eșuează. Un montaj bun pe un material potrivit locului rezistă zeci de ani.

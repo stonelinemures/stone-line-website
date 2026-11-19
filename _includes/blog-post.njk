@@ -1,4 +1,4 @@
-{%- set heroImage = image or (page.fileSlug | blogImage) -%}
+{%- set heroImage = (image | existingImage) or (page.fileSlug | blogImage) -%}
 <!DOCTYPE html>
 <html lang="ro">
 <head>

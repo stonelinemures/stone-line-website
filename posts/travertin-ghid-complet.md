@@ -5,7 +5,7 @@ date: 2026-10-01
 image: /img/blog/travertin-ghid-complet.webp
 category: Materiale
 seoTitle: "Travertin: ghid complet de utilizare | Stone Line"
-related: [travertin-french-pattern-ghid, piatra-naturala-exterior-romania, intretinere-piatra-naturala]
+related: [travertin-french-pattern-ghid, piatra-naturala-exterior-romania, intretinere-piatra-naturala, placare-pereti-interiori-piatra-naturala]
 materials: [travertin]
 services: [montaj]
 ---

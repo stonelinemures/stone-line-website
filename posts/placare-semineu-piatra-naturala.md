@@ -2,6 +2,7 @@
 title: "Placare șemineu cu piatră naturală: ce material alegi și ce trebuie respectat"
 description: "Ce piatră naturală alegi pentru un șemineu: granit, ardezie, marmură sau travertin. Zone, șoc termic, montaj sigur și întreținere împotriva funinginii."
 date: 2026-10-28
+image: /img/blog/placare-semineu-piatra-naturala.webp
 category: Aplicații
 seoTitle: "Placare șemineu cu piatră naturală: materiale"
 related: [granit-ghid-complet, marmura-ghid-complet, ardezie-ghid-complet, impermeabilizant-piatra-naturala-aspect-natural-umed]
@@ -45,11 +46,11 @@ Sunt alegeri frumoase pentru perete și pentru accente. Ghidul american notează
 
 ### Andezit
 
-Andezitul este dens, cu rezistență mare la compresiune, dar nu am găsit o sursă care să ateste comportamentul lui la temperaturile din jurul unui focar. Dacă vrei andezit într-un proiect de șemineu, spune-ne soluția dorită și confirmăm cu furnizorul înainte de debitare.
+Andezitul este dens, cu rezistență mare la compresiune, dar nu am găsit o sursă care să ateste comportamentul lui la temperaturile din jurul unui focar. Dacă vrei andezit într-un proiect de șemineu, spune-ne soluția dorită și confirmăm cu furnizorul înainte de producție.
 
 ## Șocul termic: de ce contează și cu cine îl discuți
 
-Șocul termic înseamnă variații rapide de temperatură, de exemplu când focul se aprinde și se stinge repetat. Ghidul american recomandă ca, în funcție de aplicație și de piatră, să discuți cu fabricantul dacă e nevoie de o soluție de inginerie specială, mai ales pentru șoc termic. La noi, discuția are loc înainte de debitare: ne spui tipul de focar (lemn, gaz, insertă), dimensiunile și materialul dorit.
+Șocul termic înseamnă variații rapide de temperatură, de exemplu când focul se aprinde și se stinge repetat. Ghidul american recomandă ca, în funcție de aplicație și de piatră, să discuți cu fabricantul dacă e nevoie de o soluție de inginerie specială, mai ales pentru șoc termic. La noi, discuția are loc înainte de producție: ne spui tipul de focar (lemn, gaz, insertă), dimensiunile și materialul dorit.
 
 ## Montaj sigur
 
@@ -69,7 +70,7 @@ Regulile generale din [ghidul de montaj](/blog/montaj-piatra-naturala/) rămân 
 ## Întrebări frecvente
 
 **Pot folosi marmură la un șemineu?**
-Da, mai ales pe perete și pe elemente decorative. Fiind sensibilă la șoc termic și la acizi, nu este prima alegere lipită de focarul pe lemn. Discută cu noi tipul de focar înainte de debitare.
+Da, mai ales pe perete și pe elemente decorative. Fiind sensibilă la șoc termic și la acizi, nu este prima alegere lipită de focarul pe lemn. Discută cu noi tipul de focar înainte de producție.
 
 **Care este cea mai sigură piatră pentru o ramă de șemineu?**
 Granitul și ardezia de calitate sunt cele mai potrivite lângă focar, conform sursei citate și ghidurilor noastre.

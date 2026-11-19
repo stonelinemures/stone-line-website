@@ -5,7 +5,7 @@ date: 2026-10-15
 image: /img/blog/pavaje-alei-piatra-naturala.webp
 category: Aplicații
 seoTitle: "Pavaje și alei din piatră naturală: ghid practic"
-related: [andezit-fatade-exterior, finisaje-piatra-naturala, sare-deszapezire-piatra-naturala]
+related: [andezit-fatade-exterior, finisaje-piatra-naturala, sare-deszapezire-piatra-naturala, cost-terasa-40-mp-piatra-naturala]
 materials: [andezit, granit]
 services: [montaj]
 ---

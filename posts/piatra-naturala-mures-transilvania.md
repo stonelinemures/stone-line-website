@@ -31,13 +31,13 @@ Programul de weekend nu este afișat. Dacă vrei să vii în afara orelor de mai
 
 Lucrăm cu cinci materiale: [marmură](/marmura), [granit](/granit), [travertin](/travertin), [andezit](/andezit) și [ardezie](/ardezie). La showroom poți vedea și atinge piatra la lumina naturală, pe lastre și pe mostre, ceea ce o fotografie sau o mostră mică nu poate înlocui. Culoarea, vena și textura se judecă pe lastră.
 
-Dacă nu poți veni, îți putem trimite mostre. Înainte de debitare îți trimitem fotografia lastrei exacte din care se face lucrarea, ca să confirmi textura, vena și nuanța înainte ca piesa să intre în producție.
+Dacă nu poți veni, îți putem trimite mostre. Înainte de producție îți trimitem fotografia lastrei exacte din care se face lucrarea, ca să confirmi textura, vena și nuanța înainte ca piesa să intre în producție.
 
 ## Cum decurge un proiect
 
 1. **Consultanță gratuită.** Spui unde montezi piatra (interior sau exterior, blat, scară, fațadă), ce stil vrei, cât de intens va fi folosită și ce buget ai. Îți recomandăm materialul și finisajul potrivite.
 2. **Măsurători și ofertă.** Oferta se face pe măsurători reale, cu materialul, prelucrarea și montajul detaliate. Vezi și [cât costă piatra naturală](/blog/cat-costa-piatra-naturala-2026/).
-3. **Confirmarea lastrelor.** Primești fotografia lastrei din care se face piesa.
+3. **Confirmarea lastrelor.** Primești fotografia lastrei sau a mostrei din care se face piesa, înainte de producție.
 4. **Debitare pe CNC.** Prelucrăm piesele după măsurători: canturi, decupaje, finisaj.
 5. **Montaj cu echipă proprie.** Pașii sunt cei din [ghidul de montaj](/blog/montaj-piatra-naturala/): suport, adeziv potrivit, rosturi, etanșare și, la cerere, impermeabilizare.
 6. **Întreținere.** Primești instrucțiuni de îngrijire. Comercializăm detergent neutru pentru curățarea zilnică și impermeabilizanți cu aspect natural sau aspect umed, iar la nevoie facem și [restaurare](/restaurare-piatra-naturala).

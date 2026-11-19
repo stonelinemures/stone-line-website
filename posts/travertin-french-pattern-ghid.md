@@ -102,7 +102,7 @@ Da, cu pantă corectă, hidroizolație, impermeabilizare și reînnoirea tratame
 Da, cu adeziv și sistem compatibile. Am explicat condițiile în articolul despre [piatra naturală pe încălzire în pardoseală](/blog/piatra-naturala-incalzire-in-pardoseala/).
 
 **Pot vedea piatra înainte să comand?**
-Da, în showroom-ul din Cristești, Mureș. Înainte de debitare îți trimitem și fotografia lastrei exacte din care se face lucrarea.
+Da, în showroom-ul din Cristești, Mureș. Înainte de producție îți trimitem și fotografia lastrei exacte din care se face lucrarea.
 
 ---
 

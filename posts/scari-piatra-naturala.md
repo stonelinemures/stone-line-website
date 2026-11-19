@@ -5,7 +5,7 @@ date: 2026-10-10
 image: /img/blog/scari-piatra-naturala.webp
 category: Aplicații
 seoTitle: "Scări din piatră naturală: materiale și siguranță"
-related: [finisaje-piatra-naturala, granit-ghid-complet, andezit-fatade-exterior]
+related: [finisaje-piatra-naturala, granit-ghid-complet, andezit-fatade-exterior, masurori-piatra-naturala]
 materials: [granit, andezit]
 services: [montaj]
 ---

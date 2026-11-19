@@ -2,6 +2,7 @@
 title: "Este granitul radioactiv? Ce spun EPA și studiile despre blaturile din granit"
 description: "Granitul conține urme de elemente radioactive naturale. Ce spun EPA, un studiu din 2010 și legislația UE despre blaturi și radon, și ce merită să faci acasă."
 date: 2026-10-28
+image: /img/blog/granit-radioactiv-radon-blat.webp
 category: Ghiduri tehnice
 seoTitle: "Este granitul radioactiv? Ce spun EPA și studiile"
 related: [granit-ghid-complet, blaturi-bucatarie-piatra-naturala, piatra-naturala-vs-gresie-vs-cuart, fisa-tehnica-piatra-naturala-cum-o-citesti]

@@ -1,6 +1,6 @@
 ---
 title: "Piatră naturală vs gresie vs cuarț vs ceramică – care e diferența reală?"
-description: "Comparație clară între piatră naturală, gresie, cuarț și ceramică. Avantaje, limitări și când merită fiecare material."
+description: "Comparație clară între piatră naturală, gresie, cuarț și ceramică. Avantaje, limitări și când merită fiecare material, pe scurt și cu surse clare."
 date: 2026-09-24
 image: /img/blog/piatra-naturala-vs-gresie-vs-cuart.webp
 category: Materiale

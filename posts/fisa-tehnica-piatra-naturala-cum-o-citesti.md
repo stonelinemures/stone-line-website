@@ -2,6 +2,7 @@
 title: "Cum citești o fișă tehnică de piatră naturală: absorbție, rezistențe, îngheț, aderență"
 description: "Ce înseamnă valorile dintr-o fișă tehnică de piatră naturală: absorbție, compresiune, încovoiere, îngheț, alunecare. Standardele EN și capcanele."
 date: 2026-10-29
+image: /img/blog/fisa-tehnica-piatra-naturala-cum-o-citesti.webp
 category: Ghiduri tehnice
 seoTitle: "Fișă tehnică piatră naturală: cum o citești"
 related: [marcaj-ce-declaratie-performanta-piatra-naturala, piatra-naturala-exterior-romania, finisaje-piatra-naturala, sare-deszapezire-piatra-naturala]

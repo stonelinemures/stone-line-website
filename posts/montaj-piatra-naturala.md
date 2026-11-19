@@ -2,6 +2,7 @@
 title: "Montaj piatră naturală: pași, costuri orientative și ce trebuie să știi înainte să începi"
 description: "Cum se face corect montajul pietrei naturale: pași, adezivi, costuri orientative, durate și greșeli frecvente de evitat."
 date: 2026-09-17
+image: /img/blog/montaj-piatra-naturala.webp
 category: Servicii
 seoTitle: "Montaj piatră naturală: pași și costuri 2026"
 related: [cat-costa-piatra-naturala-2026, cum-alegi-piatra-naturala-checklist, piatra-naturala-incalzire-in-pardoseala, piatra-naturala-mures-transilvania]
@@ -18,7 +19,7 @@ Piatra naturală are dilatare termică, greutate proprie și, în cazul unor sor
 ## Pașii unui montaj profesional
 
 ### Pasul 1 — Evaluare și măsurători
-Se verifică suportul (planeitate, stabilitate, umiditate); se iau măsurători precise; se stabilesc detaliile (finisaj, grosime, tip de rost, sistem de fixare); se confirmă lastrele prin fotografie înainte de debitare.
+Se verifică suportul (planeitate, stabilitate, umiditate); se iau măsurători precise; se stabilesc detaliile (finisaj, grosime, tip de rost, sistem de fixare); se confirmă lastrele prin fotografie sau mostrele din lot înainte de producție.
 
 ### Pasul 2 — Pregătirea suportului
 Curățare de praf, grăsimi, resturi; corectarea denivelărilor; aplicarea hidroizolației acolo unde e necesar (terase, băi, balcoane); amorsă, dacă situația o cere. **Suportul slab sau umed este cauza nr. 1 a problemelor ulterioare.**

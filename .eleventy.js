@@ -29,6 +29,12 @@ module.exports = function(eleventyConfig) {
       .toFormat("d MMMM yyyy");
   });
 
+  // Use a front-matter image path only if the file is really there (avoids broken images)
+  eleventyConfig.addFilter("existingImage", (p) => {
+    if (!p) return "";
+    return fs.existsSync(p.replace(/^\//, "")) ? p : "";
+  });
+
   // Hero image by convention: img/blog/<slug>.webp (used only if the file exists)
   eleventyConfig.addFilter("blogImage", (slug) => {
     const rel = `img/blog/${slug}.webp`;

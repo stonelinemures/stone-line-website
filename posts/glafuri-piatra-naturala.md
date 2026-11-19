@@ -5,7 +5,7 @@ date: 2026-10-17
 image: /img/blog/glafuri-piatra-naturala.webp
 category: Aplicații
 seoTitle: "Glafuri din piatră naturală: material și montaj"
-related: [granit-ghid-complet, scari-piatra-naturala, montaj-piatra-naturala]
+related: [granit-ghid-complet, scari-piatra-naturala, montaj-piatra-naturala, masurori-piatra-naturala]
 materials: [granit]
 services: [montaj]
 ---
