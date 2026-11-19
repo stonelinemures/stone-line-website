@@ -1,52 +1,65 @@
 User-agent: *
 Allow: /
+Disallow: /cdn-cgi/
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 
 # --- Traditional search ---
 User-agent: Googlebot
 Allow: /
+Disallow: /cdn-cgi/
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 
 User-agent: Bingbot
 Allow: /
+Disallow: /cdn-cgi/
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 
 # --- AI search / answer engines (real-time citation crawlers) ---
 User-agent: OAI-SearchBot
 Allow: /
+Disallow: /cdn-cgi/
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 
 User-agent: ChatGPT-User
 Allow: /
+Disallow: /cdn-cgi/
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 
 User-agent: PerplexityBot
 Allow: /
+Disallow: /cdn-cgi/
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 
 User-agent: Perplexity-User
 Allow: /
+Disallow: /cdn-cgi/
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 
 User-agent: Claude-SearchBot
 Allow: /
+Disallow: /cdn-cgi/
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 
 User-agent: Claude-User
 Allow: /
+Disallow: /cdn-cgi/
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 
 User-agent: ClaudeBot
 Allow: /
+Disallow: /cdn-cgi/
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 
-# --- AI training crawlers ---
+# --- AI training crawlers (left open; block individually here if you
+# later want to opt out of training while staying eligible for citations) ---
 User-agent: GPTBot
 Allow: /
+Disallow: /cdn-cgi/
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 
 User-agent: Google-Extended
 Allow: /
+Disallow: /cdn-cgi/
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 
 Sitemap: https://stone-line.ro/sitemap.xml
