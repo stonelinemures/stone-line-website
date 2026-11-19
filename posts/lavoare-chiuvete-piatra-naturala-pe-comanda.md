@@ -35,7 +35,7 @@ Pe blatul de lavoar, potrivite sunt finisajele lustruit, periat sau leathered. L
 - **Dimensiunile băii și locul robinetului.** Decupajul se face după poziția exactă a robinetului și a scurgerii.
 - **Suportul dulapului.** Blatul greu se sprijină pe dulap, așa că dulapul trebuie să fie dimensionat pentru greutatea piesei. Verifică asta înainte să comanzi.
 - **Canturile.** Drepte, rotunjite sau teșite, în funcție de stil și de siguranță.
-- **Tipul de chiuvetă.** Chiuveta încorporată, sau cea așezată deasupra blatului, cere alt decupaj.
+- **Tipul de chiuvetă.** Chiuveta pe blat (rama se sprijină pe blat) și cea sub blat cer decupaje diferite. La cea sub blat, canturile decupajului se finisează, iar chiuveta are nevoie de un suport special, ca să nu cedeze adezivul când e plină.
 - **Locul de scurgere și distanța față de perete.** Se verifică pe schiță, nu din memorie.
 
 ## Termene
